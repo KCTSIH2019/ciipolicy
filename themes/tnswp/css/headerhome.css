@@ -144,9 +144,13 @@
   top: 5.4vw;
 }
 
+.header_scroll p a{
+  color: #242424 !important;
+}
+
 .header_scroll {
-  background: #ffffff;
-  color: #242424;
+  background: #ffffff !important;
+  color: #242424 !important;
   position: fixed;
   width: 100%;
   z-index: 10000;
@@ -478,11 +482,11 @@
 .nav_section .sub-section-hover a {
   cursor: pointer;
 }
-.nav_section .sub-section-hover:hover a,
+.nav_section .sub-section-hover:hover p a,
 .nav_section .sub-section-hover:hover p {
   color: #f18f20 !important;
 }
-.nav_section p {
+.nav_section p, .nav_section a {
   cursor: pointer;
 }
 
@@ -652,8 +656,19 @@
 .section_hover {
   margin-right: 1.302vw;
 }
-.section_hover:hover {
-  background-color: #ffffff;
+
+.scroll_vision:hover{
+  background-color: #ffffff !important;
+  color: #f18f20 !important;
+  border-top-left-radius: 0.46875vw;
+  border-top-right-radius: 0.46875vw;
+  padding: 0 0.625vw 0.32vw 0.625vw;
+  margin-right: 0.625vw;
+  margin-left: 0;
+}
+
+.section_hover:hover, .section-hover p a:hover {
+  background-color: #ffffff !important;
   color: #f18f20 !important;
   border-top-left-radius: 0.46875vw;
   border-top-right-radius: 0.46875vw;
@@ -820,7 +835,7 @@
   display: none;
   width: 100%;
 }
-.help_hoverdiv p, .initiative_hoverdiv p {
+.help_hoverdiv p, .help_hoverdiv a, .initiative_hoverdiv p, .initiative_hoverdiv a {
   margin-bottom: 0 !important;
 }
 .help_hoverdiv .help_div,
