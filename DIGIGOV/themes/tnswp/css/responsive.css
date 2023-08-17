@@ -1,0 +1,3025 @@
+@media only screen and (max-width: 767px) {
+  .home {
+    background-size: contain;
+  }
+  .home .social_links {
+    display: none;
+  }
+  .home .social_links_mobile {
+    display: block;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    bottom: 54.831vw;
+    right: 30.676328vw;
+  }
+  .home .social_links_mobile img {
+    width: 7.25vw;
+    height: 7.25vw;
+    margin-right: 3.140096vw;
+  }
+  .home .social_links_mobile .youtube {
+    margin-right: 0;
+  }
+  .home .gui-mid {
+    display: block;
+    padding: 0vw;
+  }
+  .home .cm-img img {
+    margin-left: 30vw;
+    width: 36vw;
+    height: 38vw;
+    margin-top: 2vw;
+  }
+  .home .minister-img img {
+    width: 32vw;
+    height: 34vw;
+    margin-top: 3vw;
+    margin-left: 31vw;
+  }
+  .home .welcome {
+    padding-top: 0;
+  }
+  .home .welcome .welcome_header {
+    font: normal normal normal 5.797vw/6.522vw Poppins;
+    letter-spacing: 0.029vw;
+    text-align: center;
+    margin: 4.937vw 1vw 3.382vw 1vw;
+  }
+  .home .login_to_SWP_mobile {
+    padding: 1.934vw 4.818vw 1.934vw 4.831vw;
+    border-radius: 5.797vw;
+    margin: 0 auto;
+    text-align: center;
+    font: normal normal normal 2.899vw/3.865vw Roboto;
+    letter-spacing: 0.014vw;
+    color: #f18f20;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 0.242vw solid #f18f20;
+    transition: 0.3s ease-out;
+    display: block;
+  }
+  .home .login_to_SWP_mobile:hover {
+    background: transparent linear-gradient(269deg, #f18f20 0%, #e52b26 100%) 0% 0% no-repeat;
+    box-shadow: 0vw 1.449vw 2.415vw rgba(0, 0, 0, 0.1568627451);
+    color: #ffffff;
+    border: 0;
+  }
+  .home .achievement {
+    padding: 5.5vw 5.556vw 18.739371vw 5.833vw;
+    font: normal normal normal 2.899vw/4.348vw Roboto;
+    letter-spacing: 0.014vw;
+  }
+  .home .achievement .achievement_card {
+    margin-bottom: 1.505vw;
+  }
+  .home .achievement .achievement_card .chart_img {
+    width: 6.123vw;
+    height: 6.039vw;
+    margin-right: 3.507vw;
+    margin-top: 1.208vw;
+  }
+  .home .achievement .achievement_card .airport_img {
+    width: 5.9903vw;
+    height: 6.039vw;
+    margin-right: 3.633vw;
+    margin-top: 1.208vw;
+  }
+  .home .achievement .achievement_card .ship_img {
+    width: 6.239vw;
+    height: 6.039vw;
+    margin-right: 3.708vw;
+    margin-top: 1.208vw;
+  }
+  .home .achievement .achievement_card .road_img {
+    width: 6.029vw;
+    height: 6.039vw;
+    margin-right: 3.623vw;
+    margin-top: 1.208vw;
+  }
+  .home .airport-desktop-view,
+  .home .ship-desktop-view {
+    display: none;
+  }
+  .home .ship-mobile-view,
+  .home .airport-mobile-view {
+    display: block;
+  }
+  .home .mouse_slider_image {
+    width: 7.729vw !important;
+    height: 14.01vw !important;
+  }
+  .brief-intro-TN {
+    padding: 9.662vw 0vw;
+  }
+  .intro {
+    width: auto;
+    margin-bottom: 1.932vw;
+    padding-right: 0;
+  }
+  .intro #intro_header {
+    text-align: center;
+    font: normal normal 600 5.7971vw/7.2663vw Poppins;
+    padding: 0 18.841vw;
+    margin-bottom: 2.42vw;
+    color: #202020;
+  }
+  .about_TN {
+    width: auto;
+    padding-right: 0;
+  }
+  .about_TN #about_TN_details {
+    text-align: center;
+    padding: 0 9.179vw;
+    width: auto;
+    color: #4d4d4d;
+    font: normal normal 3.381642vw/4.347826vw Roboto;
+    letter-spacing: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .detail {
+    margin-top: 7.25vw;
+    margin-bottom: 10.875vw;
+    font: normal normal 3.381642vw/3.864734vw Roboto;
+    color: #4d4d4d;
+  }
+  .detail .friendimg-div,
+  .detail .expertimg-div,
+  .detail .stockimg-div {
+    margin-right: 0;
+  }
+  .investimg-maindiv {
+    padding: 0;
+    margin-bottom: 4.9082125vw;
+  }
+  .investimg-maindiv img {
+    width: 8.842995vw !important;
+    height: 8.4549vw !important;
+  }
+  .investimg-maindiv .friend_txt {
+    margin-left: 3.5314vw;
+    margin-bottom: 4.996vw;
+  }
+  .investimg-maindiv,
+  .stockimg-maindiv,
+  .expertimg-maindiv {
+    padding-left: 6.256vw;
+  }
+  .expertimg-maindiv {
+    margin: 0 10.145vw 3.594vw 8.213vw;
+    align-items: stretch;
+    padding-right: 0;
+    padding-bottom: 0;
+    margin-bottom: 5.034vw;
+  }
+  .expertimg-maindiv .expert_txt {
+    margin-top: 3.692995vw;
+    margin-left: 3.92028vw;
+    margin-bottom: 6.802vw;
+    padding-bottom: 0;
+  }
+  .expertimg-maindiv img {
+    width: 8.4549vw !important;
+    height: 8.4549vw !important;
+    margin-top: 1.83309vw;
+  }
+  .stockimg-maindiv {
+    padding-right: 0;
+  }
+  .stockimg-maindiv .stock_txt {
+    margin-left: 3.7995169vw;
+    margin-right: 3.92028vw;
+    margin-top: 3.04589vw;
+  }
+  .stockimg-maindiv img {
+    width: 8.574879vw !important;
+    height: 8.4549vw !important;
+    margin-top: 1.00314vw;
+  }
+  .expertimg-maindiv,
+  .stockimg-maindiv,
+  .investimg-maindiv {
+    align-items: stretch;
+    margin-right: 8.5vw;
+    margin-left: 8.454vw;
+  }
+  .img-text p {
+    margin-right: 0.483vw;
+  }
+  .ship-top-margin {
+    margin-top: 5.369565vw;
+  }
+  .highway-top-margin {
+    margin-top: 5.369565vw;
+  }
+  .invest {
+    margin-bottom: 3vw;
+  }
+  .Start_Investing_butt_mobile {
+    display: block;
+    margin: 0 32.1256vw 0 32.608695vw !important;
+  }
+}
+@media only screen and (max-width: 767px) {
+  #homepage_chat_bot div.chatbot {
+    position: fixed;
+    right: 3.056vw;
+    bottom: 5.188vw;
+    width: 16.425vw;
+    height: 14.86vw;
+    z-index: 10;
+  }
+  #homepage_chat_bot div.chatbot img {
+    width: 16.425vw;
+    height: 14.86vw;
+  }
+  #homepage_chat_bot #text {
+    font: normal normal normal 2.899vw/4.348vw Roboto;
+    position: fixed;
+    right: 3.056vw;
+    bottom: 21.61vw;
+    display: none;
+    z-index: 10;
+  }
+  #homepage_chat_bot #button {
+    background-color: white;
+    color: orange;
+    padding: 0.52vw 0.78vw;
+    text-align: center;
+    font: normal normal normal 2.899vw/4.348vw Roboto;
+    border: none;
+    border-radius: 2.2vw;
+  }
+  #homepage_chat_bot #square {
+    position: fixed;
+    bottom: 20.29vw;
+    right: 9.784vw;
+    width: 2.04vw;
+    height: 2.04vw;
+    background: white;
+    transform: rotate(45deg);
+    display: none;
+    z-index: 10;
+  }
+  #homepage_chat_bot div.help {
+    position: fixed;
+    right: 3.056vw;
+    bottom: 5.188vw;
+    height: 22.75vw;
+    width: 29.44vw;
+  }
+}
+@media only screen and (max-width: 767px) {
+  #sect_opportunity {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  #sect_opportunity .opportunity_container {
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 0;
+    background: transparent linear-gradient(0deg, #FFF2DD 0%, #FFFEFE 100%) 0% 0% no-repeat padding-box;
+    box-shadow: none;
+    border-radius: 0;
+    padding-bottom: 7.246vw;
+  }
+  #sect_opportunity .opportunity_container .row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_left_part {
+    padding: 0;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_left_part .opportunity_title {
+    text-align: center;
+    font: normal normal 600 5.797vw/7.246vw Poppins;
+    letter-spacing: 0vw;
+    color: #202020;
+    padding: 0 16.184vw;
+    margin-top: 3.382vw;
+    margin-bottom: 2.415vw;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_left_part .opportunity_para {
+    text-align: center;
+    font: normal normal 300 3.382vw/4.348vw Roboto;
+    letter-spacing: 0vw;
+    color: #4D4D4D;
+    padding: 0 16.667vw;
+    text-align: center;
+    margin-bottom: 7.246vw;
+    margin-right: 0;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_left_part .opportunity_facts_container {
+    margin: 0;
+    padding: 0 13.043vw;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_left_part .opportunity_facts_container .opportunity_card {
+    text-align: center;
+    padding-top: 3.623vw;
+    padding-bottom: 3.623vw;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_left_part .opportunity_facts_container .opportunity_card:nth-child(5) {
+    padding-bottom: 0;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_left_part .opportunity_facts_container .opportunity_card:nth-child(6) {
+    padding-bottom: 0;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_left_part .opportunity_facts_container .opportunity_card .opportunity_card_top {
+    text-align: center;
+    font: normal normal 600 6.763vw/6.039vw Poppins;
+    letter-spacing: 0.101vw;
+    color: #F18F20;
+    margin-bottom: 1.932vw;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_left_part .opportunity_facts_container .opportunity_card .opportunity_card_bottom {
+    font-weight: bold;
+    text-align: center;
+    font: normal normal 3.382vw/4.589vw Roboto;
+    letter-spacing: 0.017vw;
+    color: #000000;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity.carousel {
+    width: 80.053vw;
+    height: 78.14vw;
+    float: none;
+    margin: auto;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity .carousel-inner {
+    overflow: hidden;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity img {
+    float: right;
+    margin-top: 0;
+    margin-right: 0;
+    width: 80.053vw;
+    height: 66.753vw;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity .carousel-indicators {
+    top: 76.087vw;
+    right: 0vw;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity .carousel-indicators li {
+    background: #6e6e6e;
+    width: 1.449vw;
+    height: 1.449vw;
+    border-radius: 50%;
+    margin-right: 2.174vw;
+    margin-left: 0;
+    border: none;
+    margin-top: 0.242vw;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity .carousel-indicators li:last-child {
+    margin-right: 0;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity .carousel-indicators li.active {
+    background: #ED6B23;
+    width: 1.932vw;
+    height: 1.932vw;
+    margin-top: 0;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity .carousel-caption {
+    top: 103.23%;
+    position: static;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity .carousel-caption .caption_top {
+    letter-spacing: 0vw;
+    text-transform: capitalize;
+    font: normal normal 1.04vw/1.25vw Roboto;
+    color: #ED6B23;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity .carousel-caption .caption_bottom {
+    letter-spacing: 0vw;
+    text-transform: capitalize;
+    font: normal normal 300 0.9375vw/1.1458vw Roboto;
+    color: #FD7829;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity #temple1_img {
+    margin-top: 6.676vw;
+    margin-right: 0;
+    width: 80.053vw;
+    height: 66.754vw;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity #train_img {
+    margin-top: 8.667vw;
+    margin-right: 0;
+    width: 79.71vw;
+    height: 65.005vw;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity #ghats_img {
+    margin-top: 12.56vw;
+    margin-right: 0;
+    width: 79.71vw;
+    height: 61.111vw;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity #mahabalipuram_img {
+    margin-top: 9.42vw;
+    margin-right: 0;
+    width: 79.952vw;
+    height: 64.251vw;
+  }
+  #sect_opportunity .opportunity_container .row .opportunity_right_part #carousel_opportunity #temple2_img {
+    margin-top: 6.522vw;
+    margin-right: 0;
+    width: 73.601vw;
+    height: 67.15vw;
+  }
+}
+@media only screen and (max-width: 767px) {
+  #sect-country-pos {
+    padding-top: 9.662vw;
+    margin-bottom: 9.553vw;
+  }
+  #sect-country-pos .country-position {
+    text-align: center;
+    font: normal normal 600 5.797vw/7.246vw Poppins;
+    letter-spacing: 0vw;
+    color: #000000;
+    padding-left: 25.604vw;
+    padding-right: 25.604vw;
+  }
+  #sect-country-pos .position-description-position {
+    margin-top: 2.42vw;
+    margin-bottom: 7.246vw;
+    padding-right: 9.42vw;
+    padding-left: 9.42vw;
+  }
+  #sect-country-pos .position-description-position .position-description {
+    text-align: center;
+    font: normal normal 300 3.382vw/4.348vw Roboto;
+    letter-spacing: 0vw;
+    color: #4D4D4D;
+  }
+  #sect-country-pos .country_pos_cards_container {
+    padding-left: 3.865vw;
+    padding-right: 3.865vw;
+  }
+  #sect-country-pos .country_pos_cards_container .row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  #sect-country-pos .country_pos_cards_container .first-prize-container {
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 7.246vw;
+  }
+  #sect-country-pos .country_pos_cards_container .first-prize-container .first-prize {
+    display: flex;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0vw 0.725vw 1.449vw rgba(0, 0, 0, 0.1607843137);
+    border-radius: 2.415vw;
+    align-items: center;
+    height: 67.14975vw;
+    padding: 7.971vw 5.848vw 8.213vw 5.797vw;
+  }
+  #sect-country-pos .country_pos_cards_container .first-prize-container .first-prize #first-prize-image {
+    width: 27.539vw;
+    height: 23.937vw;
+    margin-right: 4.536vw;
+    margin-top: 11.81vw;
+    margin-bottom: 15.217vw;
+  }
+  #sect-country-pos .country_pos_cards_container .first-prize-container .first-prize ul.first-prize-list {
+    list-style: none;
+    text-align: left;
+    font: normal normal normal 3.382vw/4.589vw Roboto;
+    letter-spacing: 0.017vw;
+    color: #4D4D4D;
+    opacity: 1;
+    margin-bottom: 0vw;
+    padding-left: 0;
+  }
+  #sect-country-pos .country_pos_cards_container .first-prize-container .first-prize ul.first-prize-list li::before {
+    content: "\2022";
+    color: #F18F20;
+    display: inline-block;
+    text-indent: -0.75em;
+    font-size: 4.6376vw;
+    vertical-align: middle;
+  }
+  #sect-country-pos .country_pos_cards_container .first-prize-container .first-prize ul.first-prize-list li#line-one {
+    padding-bottom: 4.831vw;
+  }
+  #sect-country-pos .country_pos_cards_container .first-prize-container .first-prize ul.first-prize-list li#line-two {
+    padding-bottom: 5.314vw;
+  }
+  #sect-country-pos .country_pos_cards_container .first-prize-container .first-prize ul.first-prize-list li#line-three {
+    padding-bottom: 5.072vw;
+  }
+  #sect-country-pos .country_pos_cards_container .first-prize-container .first-prize ul.first-prize-list li#line-four {
+    padding-right: 0;
+  }
+  #sect-country-pos .country_pos_cards_container .second-prize-container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  #sect-country-pos .country_pos_cards_container .second-prize-container .second-prize {
+    display: flex;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0vw 0.725vw 1.449vw rgba(0, 0, 0, 0.1607843137);
+    border-radius: 2.415vw;
+    align-items: center;
+    height: 67.14975vw;
+    padding: 7.971vw 8.505vw 7.971vw 7.635vw;
+  }
+  #sect-country-pos .country_pos_cards_container .second-prize-container .second-prize #second-prize-image {
+    width: 23.862vw;
+    height: 21.551vw;
+    margin-right: 6.374vw;
+    margin-top: 13.582vw;
+    margin-bottom: 18.007vw;
+  }
+  #sect-country-pos .country_pos_cards_container .second-prize-container .second-prize ul.second-prize-list {
+    list-style: none;
+    text-align: left;
+    font: normal normal normal 3.382vw/4.348vw Roboto;
+    letter-spacing: 0.017vw;
+    color: #4D4D4D;
+    margin-bottom: 0vw;
+    padding-left: 0;
+  }
+  #sect-country-pos .country_pos_cards_container .second-prize-container .second-prize ul.second-prize-list li::before {
+    content: "\2022";
+    color: #999999;
+    display: inline-block;
+    text-indent: -0.75em;
+    font-size: 4.6376vw;
+    vertical-align: middle;
+  }
+  #sect-country-pos .country_pos_cards_container .second-prize-container .second-prize ul.second-prize-list li#line-one {
+    padding-bottom: 4.191vw;
+  }
+  #sect-country-pos .country_pos_cards_container .second-prize-container .second-prize ul.second-prize-list li#line-two {
+    padding-bottom: 6.437vw;
+  }
+  #sect-country-pos .country_pos_cards_container .second-prize-container .second-prize ul.second-prize-list li#line-three {
+    padding-bottom: 6.763vw;
+  }
+}
+@media only screen and (max-width: 767px) {
+  #sectors_sec {
+    padding-top: 9.795vw;
+    /*#sectors_sec .focus_sec_menu {
+    	  display: none !important;
+    	}*/
+  }
+  #sectors_sec .sectors_map {
+    display: flex;
+    justify-content: center;
+  }
+  #sectors_sec .sectors_map .focus_sec_map {
+    padding-right: 0;
+  }
+  #sectors_sec .sectors_map .sunrise_sec_map {
+    padding-right: 0;
+  }
+  #sectors_sec .sector-icon {
+    display: inline-block;
+    margin-left: 3.382vw;
+    width: 9.329vw;
+    height: 5.507vw;
+  }
+  #sectors_sec .sector-icon img {
+    width: 9.329vw;
+    height: 5.507vw;
+  }
+  #sectors_sec .sectors_title {
+    font: normal normal 600 5.797vw/6.039vw Poppins;
+    letter-spacing: 0;
+    color: #000000;
+    position: relative;
+    margin-bottom: 7.246vw;
+  }
+  #sectors_sec .sectors_title:before {
+    content: "";
+    display: block;
+    width: 12.077vw;
+    background: #000000;
+    top: 50%;
+    position: absolute;
+    border: 0.483vw solid #000000;
+    left: 23.309vw;
+  }
+  #sectors_sec .sectors_title:after {
+    content: "";
+    display: block;
+    width: 12.077vw;
+    background: #000000;
+    top: 50%;
+    position: absolute;
+    border: 0.483vw solid #000000;
+    right: 23.309vw;
+  }
+  #sectors_sec .sectors_details {
+    /*padding-left: 14.251vw;
+    padding-right: 13.043vw;*/
+    padding-left: 0;
+    padding-right: 0;
+    /*.sec_achievements_no {
+    padding-right: 1.295vw;
+     }*/
+  }
+  #sectors_sec .sectors_details .sectors_name {
+    font: normal normal 600 4.348vw/6.039vw Poppins;
+    letter-spacing: 0.022vw;
+  }
+  #sectors_sec .sectors_details .sectors_name:after {
+    content: "";
+    display: block;
+    border-bottom: 0.052vw solid #ff8c27;
+    position: absolute;
+    width: 89.971vw;
+    top: 11.111vw;
+    left: 8.575vw;
+  }
+  #sectors_sec .sectors_details .sectors_name #sunrise_sec {
+    width: 41.546vw;
+    text-align: center;
+    margin-left: 0;
+    padding-bottom: 3.865vw;
+  }
+  #sectors_sec .sectors_details .sectors_name #focus_sec {
+    width: 41.546vw;
+    margin-left: 7.729vw;
+    margin-right: 8.454vw;
+    text-align: center;
+    padding-bottom: 3.865vw;
+  }
+  #sectors_sec .sectors_details .active_sector {
+    border-bottom: 1.449vw solid #f18f20;
+  }
+  #sectors_sec .sectors_details .focus_sec_menu {
+    display: block;
+  }
+  #sectors_sec .sectors_details .sec_header {
+    font: normal normal 600 4.348vw/6.522vw Poppins;
+    letter-spacing: 0vw;
+    color: #242424;
+  }
+  #sectors_sec .sectors_details .sec_details {
+    font: normal normal 300 3.382vw/4.348vw Roboto;
+    letter-spacing: 0.034vw;
+    padding-right: 14.734vw;
+  }
+  #sectors_sec .sectors_details .sec_list {
+    font: normal normal normal 3.382vw/4.348vw Roboto;
+    letter-spacing: 0.034vw;
+    /*li {
+      margin-bottom: 4.59vw;
+    }*/
+  }
+  #sectors_sec .sectors_details .sec_list ul li {
+    margin-bottom: 4.59vw;
+  }
+  #sectors_sec .sectors_details .sec_list ul li::before {
+    font-size: 6vw;
+    margin-right: 3.6231vw;
+  }
+  #sectors_sec .sectors_details .sec_achievements {
+    padding-right: 6.522vw;
+  }
+  #sectors_sec .sectors_details .sec_achievements .sec_achievements_no {
+    font: normal normal 600 4.348vw/8.937vw Poppins;
+    padding-right: 1.208vw;
+    border-width: 0.121vw;
+  }
+  #sectors_sec .sectors_details .sec_achievements .sec_achievements_details {
+    font: normal normal normal 2.415vw/3.382vw Roboto;
+    padding-left: 1.778vw;
+  }
+  #sectors_sec .sectors_details .sec_achievements .first_row_sunrise_ach {
+    margin-bottom: 4vw !important;
+  }
+  #sectors_sec .sectors_details .sec_expert .sec_expert_title {
+    font: normal normal 500 2.657vw/4.106vw Poppins;
+    margin-top: 6.937vw;
+  }
+  #sectors_sec .sectors_details .sec_expert .sec_expert_title:after {
+    width: 39.855vw;
+    margin-top: 0.966vw;
+  }
+  #sectors_sec .sectors_details .sec_expert .expert_details {
+    margin-top: 1.307vw;
+    margin-bottom: 7.365vw;
+  }
+  #sectors_sec .sectors_details .sec_expert .expert_details .expert_img {
+    width: 11.391vw;
+    height: 11.251vw;
+    margin-right: 2.316vw;
+  }
+  #sectors_sec .sectors_details .sec_expert .expert_details .expert_img img {
+    width: 11.391vw;
+    height: 11.251vw;
+  }
+  #sectors_sec .sectors_details .sec_expert .expert_details .expert_name {
+    font: normal normal bold 3.623vw Poppins;
+    margin-top: 0.72463vw;
+  }
+  #sectors_sec .sectors_details .sec_expert .expert_details .expert_email a {
+    font: normal normal normal 2.899vw Roboto;
+    margin-top: 0.411vw;
+  }
+  #sectors_sec .sectors_details .sec_expert .expert_details .chat_icon {
+    margin-left: 5.734vw;
+    margin-top: 0.72463vw;
+    height: 9.662vw;
+    width: 9.662vw;
+  }
+  #sectors_sec .sectors_details .sec_expert .expert_details .chat_icon img {
+    height: 9.662vw;
+    width: 9.662vw;
+  }
+  #sectors_sec .sectors_details .sec_expert .sec_buttons .view_more_sec {
+    font: normal normal normal 2.899vw/3.865vw Roboto;
+    letter-spacing: 0.014vw;
+    padding: 1.932vw 4.831vw 2.415vw 4.831vw;
+    border-radius: 5.797vw;
+    border: 0.242vw solid #f18f20;
+  }
+  #sectors_sec .sectors_details .sec_expert .sec_buttons .view_all_sec {
+    font: normal normal normal 2.899vw/3.865vw Roboto;
+    letter-spacing: 0.014vw;
+    margin-left: 2.415vw;
+    padding: 1.932vw 4.831vw 2.415vw 4.831vw;
+    border-radius: 5.797vw;
+    border: 0.242vw solid #f18f20;
+  }
+  #sectors_sec .sectors_details .renewable-popup {
+    display: block;
+  }
+  #sectors_sec .sectors_details .focus_sec_menu .focus_sec_header_margin {
+    margin-bottom: 0;
+  }
+  #sectors_sec .sectors_details .focus_sec_menu .focus_sec_list_margin {
+    margin-top: 4.348vw;
+    padding-right: 14.251vw;
+  }
+  #sectors_sec .sectors_details .focus_sec_menu .focus_sec_list_margin li:last-child {
+    margin-bottom: 7.246vw;
+  }
+  #sectors_sec .sectors_details .sunrise_sec_menu {
+    margin-top: 3.358vw;
+    /*display: none;*/
+  }
+  #sectors_sec .sectors_details .sunrise_sec_menu .sunrise_sec_header_margin {
+    margin-bottom: 0;
+    padding-right: 13.942vw;
+  }
+  #sectors_sec .sectors_details .sunrise_sec_menu .sunrise_sec_list_margin {
+    margin-top: 4.348vw;
+    padding-right: 14.251vw;
+  }
+  #sectors_sec .sectors_details .sunrise_sec_menu .sunrise_sec_list_margin li:last-child {
+    margin-bottom: 4.969vw;
+  }
+  #sectors_sec .modal-close-icon {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 4.831vw 4.831vw 0 0;
+  }
+  #sectors_sec .modal {
+    padding: 0;
+  }
+  #sectors_sec .modal-content {
+    border-radius: 2.415vw;
+  }
+  #sectors_sec .modal-header {
+    padding: 0;
+    border-bottom: none;
+    padding-left: 4.589vw;
+    justify-content: flex-start;
+  }
+  #sectors_sec .modal-header .close {
+    padding: 0;
+    margin: -4.831vw 4.831vw 0 0;
+  }
+  #sectors_sec .modal-dialog {
+    margin: 24.155vw 3.865vw 9.662vw 3.865vw;
+  }
+  #sectors_sec .modal-body {
+    padding: 4.831vw 0 12.077vw 4.589vw;
+  }
+  #sectors_sec .focus_sec-hc {
+    display: flex;
+    margin-left: 8.751vw;
+    margin-top: 9.662vw;
+    margin-right: 8.797vw;
+    margin-bottom: 9.662vw;
+    /*
+    .fs-hc-third-row {
+      margin-top: -0.965vw;
+    	margin-left: inherit;
+    }
+     */
+    /*
+    .fs-hc-second-row,
+    .fs-hc-fourth-row,
+    .hc-side{
+      width: 30.676vw;
+    	height: 26.57vw;
+
+      }
+    */
+  }
+  #sectors_sec .focus_sec-hc .center-h {
+    width: 30.676vw;
+    height: 26.57vw;
+  }
+  #sectors_sec .focus_sec-hc .focus-hc-h,
+  #sectors_sec .focus_sec-hc .focus-honeycomb,
+  #sectors_sec .focus_sec-hc .focus-hc-o,
+  #sectors_sec .focus_sec-hc .focus-centercard,
+  #sectors_sec .focus_sec-hc .hc-side {
+    width: 30.676vw;
+    height: 26.57vw;
+  }
+  #sectors_sec .focus_sec-hc .txt-cntr {
+    text-align: center;
+  }
+  #sectors_sec .focus_sec-hc .hc-side {
+    display: inline;
+  }
+  #sectors_sec .focus_sec-hc .mr-auto {
+    margin: auto;
+    display: none;
+  }
+  #sectors_sec .focus_sec-hc .ml-auto {
+    margin: auto;
+    display: none;
+  }
+  #sectors_sec .focus_sec-hc .fs-hc-second-row {
+    margin-top: 12.319vw;
+    margin-right: -15.884vw;
+  }
+  #sectors_sec .focus_sec-hc .fs-hc-fourth-row {
+    margin-top: 12.319vw;
+    margin-left: -6.884vw;
+  }
+  #sectors_sec .focus_sec-hc .focus-hc-o {
+    display: none;
+    width: 30.676vw;
+    height: 26.57vw;
+  }
+  #sectors_sec .focus_sec-hc .active .focus-hc-o {
+    display: block;
+  }
+  #sectors_sec .focus_sec-hc .active .focus-hc-h {
+    display: none;
+  }
+  #sectors_sec .sunrise_sec-hc {
+    display: flex;
+    margin-left: 8.751vw;
+    margin-top: 9.662vw;
+    margin-right: 8.797vw;
+    margin-bottom: 9.662vw;
+    /*
+    .fs-hc-third-row {
+      margin-top: -0.965vw;
+    	margin-left: inherit;
+    }
+     */
+  }
+  #sectors_sec .sunrise_sec-hc .sunrise-hc-h,
+  #sectors_sec .sunrise_sec-hc .sunrise-honeycomb,
+  #sectors_sec .sunrise_sec-hc .sunrise-hc-o,
+  #sectors_sec .sunrise_sec-hc .sunrise-centercard {
+    width: 30.676vw;
+    height: 26.57vw;
+  }
+  #sectors_sec .sunrise_sec-hc .txt-cntr {
+    text-align: center;
+  }
+  #sectors_sec .sunrise_sec-hc .ss-hc-first-row {
+    margin-top: 12.319vw;
+    margin-right: -15.884vw;
+  }
+  #sectors_sec .sunrise_sec-hc .ss-hc-third-row {
+    margin-top: 12.319vw;
+    margin-left: -6.884vw;
+  }
+  #sectors_sec .sunrise_sec-hc .sunrise-hc-o {
+    display: none;
+    width: 30.676vw;
+    height: 26.57vw;
+  }
+  #sectors_sec .sunrise_sec-hc .active .sunrise-hc-o {
+    display: block;
+  }
+  #sectors_sec .sunrise_sec-hc .active .sunrise-hc-h {
+    display: none;
+  }
+  #sectors_sec .desktop-sect-map {
+    display: none;
+  }
+  #sectors_sec .mobile-sect-map {
+    display: block;
+  }
+  #sectors_sec .focus_sec_desktop_details {
+    display: none !important;
+  }
+  #sectors_sec .sunrise_sec_desktop_details {
+    display: none !important;
+  }
+  #sectors_sec .sec_achievements_div {
+    width: 50%;
+    margin-right: 2.415vw;
+  }
+  #sectors_sec .sec_achievements_div:last-child {
+    margin-right: 0;
+  }
+}
+@media only screen and (max-width: 767px) {
+  #section_resources {
+    background: transparent url("../images/homepage-images/resources-images/resources-background.svg") 50% 0% no-repeat padding-box;
+    margin-top: 4.831vw;
+    padding-top: 9.662vw;
+  }
+  #section_resources .resources_title {
+    padding-right: 15.7vw;
+    padding-left: 15.7vw;
+    margin-bottom: 7.246vw;
+  }
+  #section_resources .resources_title div {
+    text-align: center;
+    font: normal normal 600 5.797vw/7.246vw Poppins;
+    letter-spacing: 0vw;
+    color: #000000;
+  }
+  #section_resources .resources_cards_container .resources_card {
+    margin-right: 2.415vw;
+    width: 40.338vw;
+    text-align: center;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0vw 0.483vw 0.725vw rgba(0, 0, 0, 0.1568627451);
+    border-radius: 2.415vw;
+    margin-bottom: 3.623vw;
+    padding: 6.28vw 3.14vw 6.039vw;
+  }
+  #section_resources .resources_cards_container .resources_card .resources_non_anim_img {
+    height: 11.594vw;
+    width: 11.594vw;
+    margin-left: 0;
+    margin-top: 0;
+  }
+  #section_resources .resources_cards_container .resources_card .resources_anim_img {
+    height: 15.7vw;
+    width: 18.116vw;
+    margin-left: -3.14vw;
+    margin-top: -1.932vw;
+  }
+  #section_resources .resources_cards_container .resources_card .resouces_img_container {
+    width: 11.594vw;
+    height: 11.594vw;
+    margin: auto;
+  }
+  #section_resources .resources_cards_container .resources_card h4 {
+    font: normal normal bold 3.382vw/4.348vw Poppins;
+    letter-spacing: 0.017vw;
+    color: #202020;
+    margin-top: 2.899vw;
+    margin-bottom: 1.932vw;
+  }
+  #section_resources .resources_cards_container .resources_card #know_y_clrn_card_title {
+    margin-top: 0.483vw;
+    margin-bottom: 0vw;
+  }
+  #section_resources .resources_cards_container .resources_card p {
+    display: none;
+  }
+  #section_resources .resources_cards_container .resources_card .view_more_container img {
+    margin-left: 1.208vw;
+    height: 2.101vw;
+    width: 1.297vw;
+    padding-bottom: 0.156vw;
+  }
+  #section_resources .resources_cards_container .resources_card .view_more_container a {
+    font: normal normal normal 2.657vw/2.415vw Roboto;
+    letter-spacing: 0.014vw;
+    color: #000000;
+    margin-left: 2.488vw;
+  }
+  #section_resources .resources_cards_container .resources_card:hover {
+    background: #F18F20;
+  }
+  #section_resources .resources_cards_container .resources_card:hover h4 {
+    color: #fff;
+  }
+  #section_resources .resources_cards_container .resources_card:hover p {
+    color: #fff;
+  }
+  #section_resources .resources_cards_container .resources_card:hover a {
+    color: #fff;
+  }
+  #section_resources .resources_cards_container .resources_card:hover .view_more_container img {
+    margin-left: 2.415vw;
+  }
+  #section_resources .resources_cards_container .resources_card:hover .view_more_container a {
+    color: #fff;
+    margin-left: 3.696vw;
+  }
+  #section_resources .resources_description {
+    text-align: center;
+    margin-top: 6.039vw;
+    padding-left: 17.391vw;
+    padding-right: 17.391vw;
+    padding-bottom: 9.662vw;
+  }
+  #section_resources .resources_description .res_des_title div {
+    padding: 0 4.348vw;
+    font: normal normal 600 4.348vw/6.039vw Poppins;
+    letter-spacing: 0.022vw;
+    color: #000000;
+  }
+  #section_resources .resources_description .res_des_para {
+    margin-top: 3.623vw;
+    font: normal normal 300 3.382vw/4.348vw Roboto;
+    letter-spacing: 0vw;
+    color: #202020;
+  }
+  #section_resources .resources_description .res_des_para_button {
+    padding: 1.932vw 4.831vw;
+    margin-top: 5.797vw;
+    border-radius: 5.797vw;
+    color: #ffffff;
+    text-align: center;
+    font: normal normal normal 2.899vw/3.865vw Roboto;
+    letter-spacing: 0.014vw;
+    background: #F18F20;
+    border: 0.052vw solid #F18F20;
+  }
+  #section_resources .resources_description .res_des_para_button:hover {
+    background: transparent linear-gradient(90deg, #E52B26 0%, #F18F20 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0 0.1563vw 0.31vw rgba(0, 0, 0, 0.1607843137);
+    border: 0.052vw solid transparent;
+  }
+}
+@media only screen and (max-width: 767px) {
+  #sect_exp_tn {
+    padding-top: 9.662vw;
+    padding-bottom: 9.662vw;
+  }
+  #sect_exp_tn .exp-tn-title {
+    text-align: center;
+    font: normal normal 600 6.763vw/6.039vw Poppins;
+    letter-spacing: 0vw;
+    color: #000000;
+    margin-bottom: 2.415vw;
+  }
+  #sect_exp_tn .exp-tn-content {
+    padding-left: 14.976vw;
+    padding-right: 14.976vw;
+    text-align: center;
+    font: normal normal 300 3.382vw/4.348vw Roboto;
+    letter-spacing: 0vw;
+    color: #202020;
+    margin-bottom: 6.039vw;
+  }
+  #sect_exp_tn .exp-tn-buttons {
+    padding-left: 15.184vw;
+    padding-right: 12.077vw;
+    display: block;
+  }
+  #sect_exp_tn .exp-tn-buttons .content {
+    text-align: center;
+    font: normal normal normal 2.415vw/3.382vw Roboto;
+    letter-spacing: 0.012vw;
+    color: #575757;
+    margin-top: 1.208vw;
+  }
+  #sect_exp_tn .exp-tn-buttons .butt-img {
+    width: 14.01vw;
+    height: 14.01vw;
+  }
+  #sect_exp_tn .exp-tn-buttons .butt-img-active {
+    width: 14.01vw;
+    height: 14.01vw;
+    display: none;
+  }
+  #sect_exp_tn .exp-tn-buttons .exp-tn-first-container {
+    padding-right: 1.691vw;
+    display: flex;
+    padding-bottom: 6.039vw;
+  }
+  #sect_exp_tn .exp-tn-buttons .exp-tn-first-container .districts {
+    margin-right: 0;
+  }
+  #sect_exp_tn .exp-tn-buttons .exp-tn-first-container .seaports {
+    margin-left: 13.353vw;
+    margin-right: 9.729vw;
+  }
+  #sect_exp_tn .exp-tn-buttons .exp-tn-first-container .airports {
+    margin-right: 0;
+  }
+  #sect_exp_tn .exp-tn-buttons .exp-tn-second-container {
+    display: flex;
+  }
+  #sect_exp_tn .exp-tn-buttons .exp-tn-second-container .highways {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  #sect_exp_tn .exp-tn-buttons .exp-tn-second-container .industries {
+    margin-left: 14.493vw;
+    margin-right: 9.179vw;
+  }
+  #sect_exp_tn .exp-tn-buttons .exp-tn-second-container .cellular {
+    margin-right: 0;
+  }
+  #sect_exp_tn .container_exp_tn {
+    padding-left: 0;
+    padding-right: 0;
+    display: grid;
+  }
+  #sect_exp_tn .container_exp_tn_left, #sect_exp_tn .container_exp_tn_right {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  #sect_exp_tn .container_exp_tn_left {
+    order: 2;
+  }
+  #sect_exp_tn .container_exp_tn_right {
+    order: 1;
+    background-position: 0 7.246vw;
+  }
+  #sect_exp_tn .container_exp_tn_right .exp_tn_right_top {
+    position: relative;
+    display: block;
+  }
+  #sect_exp_tn #select_dist {
+    padding-top: 9.662vw;
+    padding-left: 8.454vw;
+    padding-right: 8.454vw;
+    padding-left: 7.344vw;
+    display: block;
+  }
+  #sect_exp_tn #select_dist .dist_description {
+    padding-right: 0vw;
+  }
+  #sect_exp_tn #select_dist .dist_fact_bottom {
+    padding-right: 3.623vw;
+  }
+  #sect_exp_tn .select_dist_text {
+    text-align: left;
+    font-weight: medium;
+    font: normal normal bold 4.348vw/9.42vw Poppins;
+    letter-spacing: 0.022vw;
+    color: #000000;
+    padding-left: 2.174vw;
+    padding-right: 2.174vw;
+    margin-bottom: 5.797vw;
+  }
+  #sect_exp_tn .dist_selector_wrapper .select_district {
+    width: 83.092vw;
+    border: 0.242vw solid #F18F20;
+    border-radius: 1.449vw;
+    font: normal normal normal 3.623vw/4.348vw Roboto;
+    letter-spacing: 0.056vw;
+    color: #ED6B23;
+    padding-left: 2.174vw;
+    padding-top: 2.657vw;
+    padding-bottom: 2.899vw;
+  }
+  #sect_exp_tn .dist_selector_wrapper .dropdown-menu {
+    min-width: 83.092vw;
+    overflow-y: scroll;
+  }
+  #sect_exp_tn .dist_selector_wrapper .down-arrow img {
+    width: 2.415vw;
+    height: 1.449vw;
+  }
+  #sect_exp_tn .dist_selector_wrapper .dist_selection {
+    width: 59.903vw;
+    box-shadow: 0vw 0.966vw 1.449vw rgba(0, 0, 0, 0.1019607843);
+    border: 0.242vw solid #C2C2C2;
+    border-radius: 1.208vw;
+    padding: 2.899vw 1.208vw 4.831vw 2.415vw;
+  }
+  #sect_exp_tn .dist_selector_wrapper .dist_selection .home_districts_search {
+    font: normal normal 300 2.899vw/3.382vw Roboto;
+    letter-spacing: 0.06px;
+    color: #9B9B9B;
+    border: none;
+    border-bottom: 0.052vw solid #9B9B9B;
+    box-shadow: none;
+    border-radius: 0;
+    padding: 0;
+    padding-left: 10.386vw;
+    padding-bottom: 2.415vw;
+  }
+  #sect_exp_tn .dist_selector_wrapper .dist_selection #home_input_dist_search {
+    background-image: url("../images/prelogin-pages-images/all-dist-img/search-icon.svg");
+    background-size: 3.382vw 3.382vw;
+    background-repeat: no-repeat;
+    background-position: 3.623vw 0;
+  }
+  #sect_exp_tn .dist_selector_wrapper .dist_selection .home_district_list {
+    margin-top: 3.623vw;
+    overflow-y: scroll;
+    max-height: 81.159vw;
+    padding-right: 2.899vw;
+    scrollbar-width: 0.966vw;
+    scrollbar-color: #707070 #E8E8E8;
+  }
+  #sect_exp_tn .dist_selector_wrapper .dist_selection .home_district_list::-webkit-scrollbar {
+    width: 0.966vw;
+  }
+  #sect_exp_tn .dist_selector_wrapper .dist_selection .home_district_list::-webkit-scrollbar-track {
+    background: #E8E8E8 0% 0% no-repeat padding-box;
+    border-radius: 2.415vw;
+  }
+  #sect_exp_tn .dist_selector_wrapper .dist_selection .home_district_list::-webkit-scrollbar-thumb {
+    background: #707070 0% 0% no-repeat padding-box;
+    border-radius: 2.415vw;
+  }
+  #sect_exp_tn .dist_selector_wrapper .dist_selection .home_district_item {
+    text-align: left;
+    font: normal normal normal 2.899vw/3.382vw Roboto;
+    letter-spacing: 0vw;
+    color: #4D4D4D;
+    border-radius: 1.208vw;
+    padding: 1.208vw 0 1.208vw 3.382vw;
+  }
+  #sect_exp_tn .dist_selector_wrapper .dist_selection .home_district_item:hover {
+    background-color: #F2F2F2;
+  }
+  #sect_exp_tn .dist_selector_wrapper .dist_selection .district_item_active {
+    background-color: #FFF7EB;
+    background-image: url("../images/prelogin-pages-images/all-dist-img/selected-tick.svg");
+    background-repeat: no-repeat;
+    background-size: 3.14vw 2.415vw;
+    background-position: 70vw 1.932vw;
+  }
+  #sect_exp_tn .dist_selector_wrapper .dist_selection .district_item_active:hover {
+    background-color: #FFF7EB;
+  }
+  #sect_exp_tn .dist_selector_wrapper .dist_selection .home-no-results {
+    text-align: center;
+    font: normal normal normal 3.624vw/4.348vw Roboto;
+    letter-spacing: 0.014vw;
+    color: #000000;
+  }
+  #sect_exp_tn #dist_selector {
+    font: normal normal normal 3.623vw/4.348vw Roboto;
+    letter-spacing: 0.056vw;
+    color: #ED6B23;
+    background: #FFFEF3 0% 0% no-repeat padding-box;
+    box-shadow: 0vw 0.104vw 0.208vw rgba(210, 133, 18, 0.2470588235);
+    border: 0.242vw solid #F18F20;
+    border-radius: 1.449vw;
+    padding: 2.657vw 46.377vw 2.899vw 2.174vw;
+    width: 83.092vw;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    background: url("../images/homepage-images/explore-tamil-nadu-images/down-arrow.svg") no-repeat;
+    background-position: 77.778vw 3.865vw;
+    background-size: 2.174vw 2.174vw;
+  }
+  #sect_exp_tn .dist_title {
+    text-align: left;
+    font: normal normal bold 4.348vw/5.797vw Roboto;
+    letter-spacing: 0.022vw;
+    color: #F18F20;
+    margin-bottom: 2.415vw;
+    margin-top: 9.42vw;
+  }
+  #sect_exp_tn .dist_description {
+    text-align: left;
+    font: normal normal normal 3.382vw/4.831vw Roboto;
+    letter-spacing: 0vw;
+    color: #4D4D4D;
+    margin-bottom: 6.039vw;
+  }
+  #sect_exp_tn .dist_facts_container .dist_facts_container_top {
+    display: flex;
+    justify-content: space-between;
+  }
+  #sect_exp_tn .dist_facts_container .dist_facts_container_bottom {
+    display: flex;
+    justify-content: space-between;
+  }
+  #sect_exp_tn .dist_facts_container .dist_fact {
+    margin-bottom: 8.454vw;
+    padding-right: 0;
+    padding-left: 0;
+  }
+  #sect_exp_tn .dist_facts_container .dist_fact_top {
+    text-align: left;
+    font: normal normal 600 4.348vw/4.106vw Poppins;
+    letter-spacing: 0vw;
+    color: #F18F20;
+    padding-bottom: 1.691vw;
+  }
+  #sect_exp_tn .dist_facts_container .dist_fact_top .dist_fact_img_container {
+    height: 9.662vw;
+    margin-bottom: 0.469vw;
+  }
+  #sect_exp_tn .dist_facts_container .dist_fact_top .dist_fact_img_container img {
+    height: 9.662vw;
+  }
+  #sect_exp_tn .dist_facts_container .dist_fact_top #dist_fact_airport_img {
+    width: 9.606vw;
+  }
+  #sect_exp_tn .dist_facts_container .dist_fact_top #dist_fact_airport_img img {
+    width: 9.606vw;
+  }
+  #sect_exp_tn .dist_facts_container .dist_fact_top #dist_fact_seaport_img {
+    width: 10.13vw;
+  }
+  #sect_exp_tn .dist_facts_container .dist_fact_top #dist_fact_seaport_img img {
+    width: 10.13vw;
+  }
+  #sect_exp_tn .dist_facts_container .dist_fact_top #dist_fact_train_img {
+    width: 7.258vw;
+  }
+  #sect_exp_tn .dist_facts_container .dist_fact_top #dist_fact_train_img img {
+    width: 7.258vw;
+  }
+  #sect_exp_tn .dist_facts_container .dist_fact_bottom {
+    text-align: left;
+    font: normal normal normal 3.382vw/6.039vw Roboto;
+    letter-spacing: 0vw;
+    color: #4D4D4D;
+    padding-right: 3.623vw;
+  }
+  #sect_exp_tn .dist_button_container {
+    margin-top: 3.382vw;
+    display: flex;
+    justify-content: center;
+  }
+  #sect_exp_tn .dist_button_container .exp_this_dist_button, #sect_exp_tn .dist_button_container .view_all_dist_button {
+    border-radius: 5.797vw;
+    text-align: center;
+    font: normal normal normal 2.899vw/3.865vw Roboto;
+    letter-spacing: 0.014vw;
+  }
+  #sect_exp_tn .dist_button_container .exp_this_dist_button {
+    background: #F18F20;
+    color: #FFFFFF;
+    padding: 1.932vw 4.831vw 2.415vw;
+    margin-right: 3.14vw;
+  }
+  #sect_exp_tn .dist_button_container .view_all_dist_button {
+    border: 0.052vw solid #F18F20;
+    color: #F18F20;
+    padding: 1.932vw 4.831vw 2.415vw;
+  }
+  #sect_exp_tn .exp_tn_common_tab {
+    padding-top: 9.662vw;
+    padding-left: 8.454vw;
+  }
+  #sect_exp_tn .exp_tn_common_tab .exp_tn_tab_title {
+    text-align: left;
+    font: normal normal bold 4.348vw/5.797vw Roboto;
+    letter-spacing: 0.022vw;
+    color: #F18F20;
+    margin-bottom: 2.415vw;
+  }
+  #sect_exp_tn .exp_tn_common_tab .exp_tn_tab_para {
+    text-align: left;
+    font: normal normal normal 3.382vw/4.831vw Roboto;
+    letter-spacing: 0vw;
+    color: #4D4D4D;
+    margin-bottom: 6.763vw;
+  }
+  #sect_exp_tn .exp_tn_common_tab .exp_tn_facts_container .exp_tn_fact {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    letter-spacing: 0vw;
+  }
+  #sect_exp_tn .exp_tn_common_tab .exp_tn_facts_container .exp_tn_fact .exp_tn_fact_top {
+    font: normal normal 600 4.348vw/6.522vw Poppins;
+    color: #232323;
+    margin-bottom: 1.691vw;
+  }
+  #sect_exp_tn .exp_tn_common_tab .exp_tn_facts_container .exp_tn_fact .exp_tn_fact_bottom {
+    font: normal normal normal 3.382vw/3.865vw Roboto;
+    color: #4D4D4D;
+  }
+  #sect_exp_tn #exp_tn_seaport, #sect_exp_tn #exp_tn_indus_park, #sect_exp_tn #exp_tn_hitech_comm, #sect_exp_tn #exp_tn_net_highway, #sect_exp_tn #exp_tn_airport {
+    display: none;
+  }
+  #sect_exp_tn #exp_tn_seaport .exp_tn_tab_para {
+    margin-right: 7.246vw;
+  }
+  #sect_exp_tn #exp_tn_seaport .exp_tn_facts_container {
+    margin-right: 0;
+  }
+  #sect_exp_tn #exp_tn_seaport .exp_tn_facts_container .exp_tn_fact {
+    margin-right: 8.454vw;
+  }
+  #sect_exp_tn #exp_tn_seaport .coast_line_fact {
+    max-width: 21.014vw;
+  }
+  #sect_exp_tn #exp_tn_indus_park .exp_tn_tab_para {
+    margin-right: 8.454vw;
+  }
+  #sect_exp_tn #exp_tn_indus_park .exp_tn_facts_container {
+    margin-right: 0;
+  }
+  #sect_exp_tn #exp_tn_indus_park .exp_tn_facts_container .exp_tn_fact {
+    margin-right: 8.454vw;
+  }
+  #sect_exp_tn #exp_tn_indus_park .exp_tn_facts_container .pub_pri_park {
+    width: 23.43vw;
+  }
+  #sect_exp_tn #exp_tn_indus_park .exp_tn_facts_container .dom_tar_zone {
+    width: 23.913vw;
+  }
+  #sect_exp_tn #exp_tn_indus_park .exp_tn_facts_container .spec_eco_zone {
+    max-width: 16.908vw;
+    margin-right: auto;
+  }
+  #sect_exp_tn #exp_tn_hitech_comm .exp_tn_tab_para {
+    margin-right: 3.382vw;
+  }
+  #sect_exp_tn #exp_tn_hitech_comm .exp_tn_facts_container {
+    margin-right: 0;
+  }
+  #sect_exp_tn #exp_tn_hitech_comm .exp_tn_facts_container .exp_tn_fact {
+    margin-right: 6.039vw;
+  }
+  #sect_exp_tn #exp_tn_hitech_comm .exp_tn_facts_container .net_users {
+    width: 27.536vw;
+  }
+  #sect_exp_tn #exp_tn_hitech_comm .exp_tn_facts_container .brod_subs {
+    width: 21.256vw;
+  }
+  #sect_exp_tn #exp_tn_hitech_comm .exp_tn_facts_container .mobile_coverage_area {
+    max-width: 25.604vw;
+    margin-right: auto;
+  }
+  #sect_exp_tn #exp_tn_net_highway .exp_tn_tab_para {
+    margin-right: 11.594vw;
+  }
+  #sect_exp_tn #exp_tn_net_highway .exp_tn_facts_container {
+    margin-right: 0;
+  }
+  #sect_exp_tn #exp_tn_net_highway .exp_tn_facts_container .exp_tn_fact {
+    margin-right: 7.246vw;
+  }
+  #sect_exp_tn #exp_tn_net_highway .exp_tn_facts_container .tot_road_net {
+    min-width: 22.947vw;
+  }
+  #sect_exp_tn #exp_tn_net_highway .exp_tn_facts_container .nat_highway {
+    white-space: nowrap;
+  }
+  #sect_exp_tn #exp_tn_net_highway .exp_tn_facts_container .stat_highway {
+    white-space: nowrap;
+    margin-right: auto;
+  }
+  #sect_exp_tn #exp_tn_airport .exp_tn_tab_para {
+    margin-right: 4.589vw;
+  }
+  #sect_exp_tn #exp_tn_airport .exp_tn_facts_container {
+    margin-right: 10.145vw;
+  }
+  #sect_exp_tn #exp_tn_airport .exp_tn_facts_container .exp_tn_fact {
+    margin-right: 8.454vw;
+  }
+  #sect_exp_tn #exp_tn_airport .exp_tn_facts_container .intn_ap {
+    width: 19.807vw;
+  }
+  #sect_exp_tn #exp_tn_airport .exp_tn_facts_container .dom_ap {
+    width: 15.7vw;
+  }
+  #sect_exp_tn #exp_tn_airport .exp_tn_facts_container .ap_psg_cnt {
+    max-width: 20.773vw;
+  }
+  #sect_exp_tn .tn_map_container {
+    padding-top: 10.87vw;
+    padding-left: 7.971vw;
+  }
+  #sect_exp_tn .tn_map_container .districts-name {
+    text-align: center;
+    font: normal normal normal 3.865vw/5.072vw Roboto;
+    letter-spacing: 0.019vw;
+    color: #F18F20;
+    padding: 1.621vw 3.865vw;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0vw 0.725vw 1.208vw rgba(0, 0, 0, 0.1607843137);
+    border: 0.242vw solid #F18F20;
+    border-radius: 4.831vw;
+    position: absolute;
+    display: none;
+  }
+  #sect_exp_tn .tn_map_container .Ariyalur-txt {
+    margin-left: 55vw;
+    margin-top: 30vw;
+  }
+  #sect_exp_tn .tn_map_container .Chennai-txt {
+    margin-left: 53vw;
+    margin-top: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Coimbatore-txt {
+    margin-left: 0vw;
+    margin-top: 30vw;
+  }
+  #sect_exp_tn .tn_map_container .Thiruvallur-txt {
+    margin-left: 33vw;
+  }
+  #sect_exp_tn .tn_map_container .Kancheepuram-txt {
+    margin-left: 30vw;
+    margin-top: 10vw;
+  }
+  #sect_exp_tn .tn_map_container .Ranipet-txt {
+    margin-left: 40vw;
+  }
+  #sect_exp_tn .tn_map_container .Chengalpattu-txt {
+    margin-top: 0vw;
+    margin-left: 45vw;
+  }
+  #sect_exp_tn .tn_map_container .Vellore-txt {
+    margin-left: 33vw;
+    margin-top: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Tiruvannamalai-txt {
+    margin-left: 25vw;
+    margin-top: 5vw;
+  }
+  #sect_exp_tn .tn_map_container .Tirupattur-txt {
+    margin-left: 34vw;
+    margin-top: 3vw;
+  }
+  #sect_exp_tn .tn_map_container .Viluppuram-txt {
+    margin-top: 10vw;
+    margin-left: 45vw;
+  }
+  #sect_exp_tn .tn_map_container .Krishnagiri-txt {
+    margin-left: 20vw;
+    margin-top: 3vw;
+  }
+  #sect_exp_tn .tn_map_container .Dharmapuri-txt {
+    margin-left: 4vw;
+    margin-top: 16vw;
+  }
+  #sect_exp_tn .tn_map_container .Kallakurichi-txt {
+    margin-left: 60vw;
+    margin-top: 20vw;
+  }
+  #sect_exp_tn .tn_map_container .Cuddalore-txt {
+    margin-left: 50vw;
+    margin-top: 20vw;
+  }
+  #sect_exp_tn .tn_map_container .Nilgiris-txt {
+    margin-top: 24vw;
+  }
+  #sect_exp_tn .tn_map_container .Erode-txt {
+    margin-top: 21vw;
+    margin-left: 10vw;
+  }
+  #sect_exp_tn .tn_map_container .Salem-txt {
+    margin-top: 20vw;
+    margin-left: 20vw;
+  }
+  #sect_exp_tn .tn_map_container .Tiruppur-txt {
+    margin-top: 30vw;
+    margin-left: 12vw;
+  }
+  #sect_exp_tn .tn_map_container .Namakkal-txt {
+    margin-top: 27vw;
+    margin-left: 23vw;
+  }
+  #sect_exp_tn .tn_map_container .Tiruchirappalli-txt {
+    margin-top: 30vw;
+    margin-left: 25vw;
+  }
+  #sect_exp_tn .tn_map_container .Karur-txt {
+    margin-top: 35vw;
+    margin-left: 30vw;
+  }
+  #sect_exp_tn .tn_map_container .Perambalur-txt {
+    margin-top: 27vw;
+    margin-left: 27vw;
+  }
+  #sect_exp_tn .tn_map_container .Nagapattinam-txt {
+    margin-top: 63vw;
+    margin-left: 50vw;
+  }
+  #sect_exp_tn .tn_map_container .Mayiladuthurai-txt {
+    margin-top: 30vw;
+    margin-left: 55vw;
+  }
+  #sect_exp_tn .tn_map_container .Thiruvarur-txt {
+    margin-top: 35vw;
+    margin-left: 45vw;
+  }
+  #sect_exp_tn .tn_map_container .Thanjavur-txt {
+    margin-top: 39vw;
+    margin-left: 33vw;
+  }
+  #sect_exp_tn .tn_map_container .Pudukottai-txt {
+    margin-top: 43vw;
+    margin-left: 35vw;
+  }
+  #sect_exp_tn .tn_map_container .Dindigul-txt {
+    margin-top: 50vw;
+    margin-left: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Theni-txt {
+    margin-top: 63vw;
+    margin-left: 3vw;
+  }
+  #sect_exp_tn .tn_map_container .Madurai-txt {
+    margin-top: 55vw;
+    margin-left: 12vw;
+  }
+  #sect_exp_tn .tn_map_container .Sivagangai-txt {
+    margin-top: 55vw;
+    margin-left: 15vw;
+  }
+  #sect_exp_tn .tn_map_container .Ramanathapuram-txt {
+    margin-top: 55vw;
+    margin-left: 30vw;
+  }
+  #sect_exp_tn .tn_map_container .Virudhunagar-txt {
+    margin-top: 60vw;
+    margin-left: 6vw;
+  }
+  #sect_exp_tn .tn_map_container .Tenkasi-txt {
+    margin-top: 75vw;
+    margin-left: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Thoothukudi-txt {
+    margin-top: 90vw;
+    margin-left: 40vw;
+  }
+  #sect_exp_tn .tn_map_container .Tirunelveli-txt {
+    margin-top: 76vw;
+    margin-left: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Kanyakumari-txt {
+    margin-top: 82vw;
+    margin-left: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .seaport-pin {
+    display: none;
+  }
+  #sect_exp_tn .tn_map_container .seaport-tool-tip {
+    max-width: 70.872vw;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.241vw solid #F18F20;
+    border-radius: 2.416vw;
+    padding: 3.14vw 3.622vw 3.622vw 5.797vw;
+    box-sizing: border-box;
+    display: none;
+    position: absolute;
+  }
+  #sect_exp_tn .tn_map_container .seaport-tool-tip::before {
+    content: "";
+    position: absolute;
+    border-left: 2.416vw solid transparent;
+    border-right: 2.416vw solid transparent;
+    top: 100%;
+    left: 50%;
+    margin-left: -2.416vw;
+    border-top: 2.416vw solid #F18F20;
+    margin-top: 0.241vw;
+  }
+  #sect_exp_tn .tn_map_container .seaport-tool-tip::after {
+    content: "";
+    position: absolute;
+    border-left: 2.416vw solid transparent;
+    border-right: 2.416vw solid transparent;
+    top: 100%;
+    left: 50%;
+    margin-left: -2.416vw;
+    border-top: 2.416vw solid white;
+    margin-top: -0.241vw;
+    z-index: 1;
+  }
+  #sect_exp_tn .tn_map_container .seaport-tool-tip .tooltip-title {
+    text-align: center;
+    font: normal normal bold 4.348vw/5.072vw Roboto;
+    letter-spacing: 0vw;
+    color: #242424;
+    margin-bottom: 1.932vw;
+  }
+  #sect_exp_tn .tn_map_container .seaport-tool-tip .name-container {
+    padding-right: 3.623vw;
+    border-right: 0.242vw solid #F18F20;
+  }
+  #sect_exp_tn .tn_map_container .seaport-tool-tip .category_container {
+    padding-left: 3.623vw;
+  }
+  #sect_exp_tn .tn_map_container .seaport-tool-tip .list {
+    text-align: left;
+    font: normal normal normal 3.382vw/4.589vw Roboto;
+    letter-spacing: 0vw;
+    color: #4D4D4D;
+  }
+  #sect_exp_tn .tn_map_container .seaport-tool-tip .title {
+    text-align: left;
+    font: normal normal 600 3.865vw/4.589vw Roboto;
+    letter-spacing: 0vw;
+    color: #4D4D4D;
+    margin-bottom: 1.208vw;
+  }
+  #sect_exp_tn .tn_map_container .seaport-tool-tip ul.seaport-list {
+    margin-bottom: 0;
+  }
+  #sect_exp_tn .tn_map_container .seaport-tool-tip ul.seaport-list li {
+    list-style: none;
+    white-space: nowrap;
+  }
+  #sect_exp_tn .tn_map_container .seaport-tool-tip ul.seaport-list li::before {
+    content: "\2022";
+    color: #F18F20;
+    display: inline-block;
+    text-indent: -0.75em;
+    font-size: 4.638vw;
+    vertical-align: middle;
+  }
+  #sect_exp_tn .tn_map_container .seaport-tool-tip ul.category-list {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+  }
+  #sect_exp_tn .tn_map_container .Thoothukudi-seaport-pin-txt {
+    margin-top: 49.3vw;
+    margin-left: 2.5vw;
+    z-index: 99;
+  }
+  #sect_exp_tn .tn_map_container .Chennai-seaport-pin-txt {
+    margin-top: -14vw;
+    margin-left: 20vw;
+  }
+  #sect_exp_tn .tn_map_container .Chennai-seaport-pin-txt::before {
+    left: 82%;
+  }
+  #sect_exp_tn .tn_map_container .Chennai-seaport-pin-txt::after {
+    left: 82%;
+  }
+  #sect_exp_tn .tn_map_container .Thiruvallur-seaport-pin-txt {
+    margin-top: -25.2vw;
+    margin-left: 20vw;
+  }
+  #sect_exp_tn .tn_map_container .Thiruvallur-seaport-pin-txt::before {
+    left: 82.5%;
+  }
+  #sect_exp_tn .tn_map_container .Thiruvallur-seaport-pin-txt::after {
+    left: 82.5%;
+  }
+  #sect_exp_tn .tn_map_container .Cuddalore-seaport-pin-txt {
+    margin-top: -0.2vw;
+    margin-left: 20vw;
+  }
+  #sect_exp_tn .tn_map_container .Cuddalore-seaport-pin-txt::before {
+    left: 67.5%;
+  }
+  #sect_exp_tn .tn_map_container .Cuddalore-seaport-pin-txt::after {
+    left: 67.5%;
+  }
+  #sect_exp_tn .tn_map_container .Chengalpattu-seaport-pin-txt {
+    margin-top: -10vw;
+    margin-left: 18vw;
+  }
+  #sect_exp_tn .tn_map_container .Chengalpattu-seaport-pin-txt::before {
+    left: 83%;
+  }
+  #sect_exp_tn .tn_map_container .Chengalpattu-seaport-pin-txt::after {
+    left: 83%;
+  }
+  #sect_exp_tn .tn_map_container .Kanyakumari-seaport-pin-txt {
+    margin-top: 70.8vw;
+    margin-left: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Kanyakumari-seaport-pin-txt::before {
+    left: 34.5%;
+  }
+  #sect_exp_tn .tn_map_container .Kanyakumari-seaport-pin-txt::after {
+    left: 34.5%;
+  }
+  #sect_exp_tn .tn_map_container .Nagapattinam-seaport-pin-txt {
+    margin-top: 18vw;
+    margin-left: 18.2vw;
+  }
+  #sect_exp_tn .tn_map_container .Nagapattinam-seaport-pin-txt::before {
+    left: 73.5%;
+  }
+  #sect_exp_tn .tn_map_container .Nagapattinam-seaport-pin-txt::after {
+    left: 73.5%;
+  }
+  #sect_exp_tn .tn_map_container .Ramanathapuram-seaport-pin-txt {
+    margin-top: 46.5vw;
+    margin-left: 15.5vw;
+  }
+  #sect_exp_tn .tn_map_container .Tirunelveli-seaport-pin-txt {
+    margin-top: 75.3vw;
+    margin-left: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Tirunelveli-seaport-pin-txt::before {
+    left: 44%;
+  }
+  #sect_exp_tn .tn_map_container .Tirunelveli-seaport-pin-txt::after {
+    left: 44%;
+  }
+  #sect_exp_tn .tn_map_container .industrial-tool-tip {
+    max-width: 100%;
+    position: absolute;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #F18F20;
+    border-radius: 10px;
+    padding: 13px 15px 15px 24px;
+    box-sizing: border-box;
+    display: none;
+  }
+  #sect_exp_tn .tn_map_container .industrial-tool-tip::before {
+    content: "";
+    position: absolute;
+    border-left: 2.416vw solid transparent;
+    border-right: 2.416vw solid transparent;
+    top: 100%;
+    left: 50%;
+    margin-left: -2.416vw;
+    border-top: 2.416vw solid #F18F20;
+    margin-top: 0.241vw;
+  }
+  #sect_exp_tn .tn_map_container .industrial-tool-tip::after {
+    content: "";
+    position: absolute;
+    border-left: 2.416vw solid transparent;
+    border-right: 2.416vw solid transparent;
+    top: 100%;
+    left: 50%;
+    margin-left: -2.416vw;
+    border-top: 2.416vw solid white;
+    margin-top: -0.241vw;
+    z-index: 1;
+  }
+  #sect_exp_tn .tn_map_container .industrial-tool-tip .tooltip-title {
+    text-align: center;
+    font: normal normal bold 3.865vw/5.072vw Roboto;
+    letter-spacing: 0vw;
+    color: #242424;
+    margin-bottom: 1.932vw;
+  }
+  #sect_exp_tn .tn_map_container .industrial-tool-tip .tool-tip-container {
+    display: block;
+  }
+  #sect_exp_tn .tn_map_container .industrial-tool-tip .split_con_left {
+    padding-right: 0;
+    border-right: 0;
+  }
+  #sect_exp_tn .tn_map_container .industrial-tool-tip .split_con_right {
+    padding-left: 0;
+  }
+  #sect_exp_tn .tn_map_container .industrial-tool-tip .government_container {
+    margin-right: 0;
+    margin-bottom: 2.862vw;
+  }
+  #sect_exp_tn .tn_map_container .industrial-tool-tip .list {
+    font: normal normal normal 3.382vw/4.589vw Roboto;
+    letter-spacing: 0vw;
+    color: #4D4D4D;
+  }
+  #sect_exp_tn .tn_map_container .industrial-tool-tip .title {
+    font: normal normal 600 3.865vw/4.589vw Roboto;
+    letter-spacing: 0vw;
+    color: #4D4D4D;
+    margin-bottom: 1.208vw;
+  }
+  #sect_exp_tn .tn_map_container .industrial-tool-tip ul.industry_list {
+    margin-bottom: 0;
+  }
+  #sect_exp_tn .tn_map_container .industrial-tool-tip ul.industry_list li {
+    list-style: none;
+  }
+  #sect_exp_tn .tn_map_container .industrial-tool-tip ul.industry_list li::before {
+    content: "\2022";
+    color: #F18F20;
+    display: inline-block;
+    text-indent: -0.75em;
+    font-size: 4vw;
+    vertical-align: middle;
+  }
+  #sect_exp_tn .tn_map_container .Kancheepuram-industrial-pin-txt {
+    margin-top: -84.4vw;
+    margin-left: 18.2vw;
+  }
+  #sect_exp_tn .tn_map_container .Kancheepuram-industrial-pin-txt::before {
+    left: 77%;
+  }
+  #sect_exp_tn .tn_map_container .Kancheepuram-industrial-pin-txt::after {
+    left: 77%;
+  }
+  #sect_exp_tn .tn_map_container .Krishnagiri-industrial-pin-txt {
+    margin-top: -28vw;
+    margin-left: 8vw;
+  }
+  #sect_exp_tn .tn_map_container .Tirunelveli-industrial-pin-txt {
+    margin-top: 49.2vw;
+    margin-left: -0.1vw;
+    z-index: 999;
+  }
+  #sect_exp_tn .tn_map_container .Tirunelveli-industrial-pin-txt::before {
+    left: 35.9%;
+  }
+  #sect_exp_tn .tn_map_container .Tirunelveli-industrial-pin-txt::after {
+    left: 35.9%;
+  }
+  #sect_exp_tn .tn_map_container .Erode-industrial-pin-txt {
+    margin-top: 6.8vw;
+    margin-left: -0.3vw;
+  }
+  #sect_exp_tn .tn_map_container .Erode-industrial-pin-txt::before {
+    left: 37%;
+  }
+  #sect_exp_tn .tn_map_container .Erode-industrial-pin-txt::after {
+    left: 37%;
+  }
+  #sect_exp_tn .tn_map_container .Vellore-industrial-pin-txt {
+    margin-top: -19.6vw;
+    margin-left: 24.7vw;
+  }
+  #sect_exp_tn .tn_map_container .Tiruvannamalai-industrial-pin-txt {
+    margin-top: -12.9vw;
+    margin-left: 14.4vw;
+  }
+  #sect_exp_tn .tn_map_container .Tiruvannamalai-industrial-pin-txt::before {
+    left: 66%;
+  }
+  #sect_exp_tn .tn_map_container .Tiruvannamalai-industrial-pin-txt::after {
+    left: 66%;
+  }
+  #sect_exp_tn .tn_map_container .Thiruvallur-industrial-pin-txt {
+    margin-top: -69.9vw;
+    margin-left: -0.3vw;
+  }
+  #sect_exp_tn .tn_map_container .Thiruvallur-industrial-pin-txt::before {
+    left: 86%;
+  }
+  #sect_exp_tn .tn_map_container .Thiruvallur-industrial-pin-txt::after {
+    left: 86%;
+  }
+  #sect_exp_tn .tn_map_container .Ranipet-industrial-pin-txt {
+    margin-top: -13vw;
+    margin-left: 38.5vw;
+  }
+  #sect_exp_tn .tn_map_container .Chengalpattu-industrial-pin-txt {
+    margin-top: -17.2vw;
+    margin-left: 22vw;
+  }
+  #sect_exp_tn .tn_map_container .Chengalpattu-industrial-pin-txt::before {
+    left: 83%;
+  }
+  #sect_exp_tn .tn_map_container .Chengalpattu-industrial-pin-txt::after {
+    left: 83%;
+  }
+  #sect_exp_tn .tn_map_container .Cuddalore-industrial-pin-txt {
+    margin-top: 6.8vw;
+    margin-left: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Cuddalore-industrial-pin-txt::before {
+    left: 75%;
+  }
+  #sect_exp_tn .tn_map_container .Cuddalore-industrial-pin-txt::after {
+    left: 75%;
+  }
+  #sect_exp_tn .tn_map_container .Perambalur-industrial-pin-txt {
+    margin-top: 19.3vw;
+    margin-left: 31.3vw;
+  }
+  #sect_exp_tn .tn_map_container .Dindigul-industrial-pin-txt {
+    margin-top: 32.3vw;
+    margin-left: 4.1vw;
+  }
+  #sect_exp_tn .tn_map_container .Pudukottai-industrial-pin-txt {
+    margin-top: 32vw;
+    margin-left: 20vw;
+  }
+  #sect_exp_tn .tn_map_container .Sivagangai-industrial-pin-txt {
+    margin-top: 39.5vw;
+    margin-left: 13.2vw;
+  }
+  #sect_exp_tn .tn_map_container .Thoothukudi-industrial-pin-txt {
+    margin-top: 44.9vw;
+    margin-left: -0.7vw;
+    z-index: 999;
+  }
+  #sect_exp_tn .tn_map_container .Thoothukudi-industrial-pin-txt::before {
+    left: 48%;
+  }
+  #sect_exp_tn .tn_map_container .Thoothukudi-industrial-pin-txt::after {
+    left: 48%;
+  }
+  #sect_exp_tn .tn_map_container .cellular-tool-tip {
+    text-align: center;
+    font: normal normal normal 3.865vw/5.072vw Roboto;
+    letter-spacing: 0.019vw;
+    color: #F18F20;
+    padding: 1.621vw 3.865vw;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0vw 0.725vw 1.208vw rgba(0, 0, 0, 0.1607843137);
+    border: 0.242vw solid #F18F20;
+    border-radius: 4.831vw;
+    position: absolute;
+    display: none;
+  }
+  #sect_exp_tn .tn_map_container .Ariyalur-cellular-pin-txt {
+    margin-left: 55vw;
+    margin-top: 30vw;
+  }
+  #sect_exp_tn .tn_map_container .Chennai-cellular-pin-txt {
+    margin-left: 52vw;
+    margin-top: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Coimbatore-cellular-pin-txt {
+    margin-left: 0vw;
+    margin-top: 33vw;
+  }
+  #sect_exp_tn .tn_map_container .Thiruvallur-cellular-pin-txt {
+    margin-left: 33vw;
+  }
+  #sect_exp_tn .tn_map_container .Kancheepuram-cellular-pin-txt {
+    margin-left: 35vw;
+    margin-top: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Ranipet-cellular-pin-txt {
+    margin-left: 40vw;
+  }
+  #sect_exp_tn .tn_map_container .Chengalpattu-cellular-pin-txt {
+    margin-top: 0vw;
+    margin-left: 45vw;
+  }
+  #sect_exp_tn .tn_map_container .Vellore-cellular-pin-txt {
+    margin-left: 30vw;
+    margin-top: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Tiruvannamalai-cellular-pin-txt {
+    margin-left: 25vw;
+    margin-top: 2vw;
+  }
+  #sect_exp_tn .tn_map_container .Tirupattur-cellular-pin-txt {
+    margin-left: 22vw;
+    margin-top: 2.5vw;
+  }
+  #sect_exp_tn .tn_map_container .Viluppuram-cellular-pin-txt {
+    margin-top: 8.7vw;
+    margin-left: 40vw;
+  }
+  #sect_exp_tn .tn_map_container .Krishnagiri-cellular-pin-txt {
+    margin-left: 10vw;
+    margin-top: 3vw;
+  }
+  #sect_exp_tn .tn_map_container .Dharmapuri-cellular-pin-txt {
+    margin-left: 4vw;
+    margin-top: 16vw;
+  }
+  #sect_exp_tn .tn_map_container .Kallakurichi-cellular-pin-txt {
+    margin-left: 60vw;
+    margin-top: 20vw;
+  }
+  #sect_exp_tn .tn_map_container .Cuddalore-cellular-pin-txt {
+    margin-left: 50vw;
+    margin-top: 20vw;
+  }
+  #sect_exp_tn .tn_map_container .Nilgiris-cellular-pin-txt {
+    margin-top: 22vw;
+  }
+  #sect_exp_tn .tn_map_container .Erode-cellular-pin-txt {
+    margin-top: 20vw;
+    margin-left: 4.6vw;
+  }
+  #sect_exp_tn .tn_map_container .Salem-cellular-pin-txt {
+    margin-top: 20vw;
+    margin-left: 20vw;
+  }
+  #sect_exp_tn .tn_map_container .Tiruppur-cellular-pin-txt {
+    margin-top: 33vw;
+    margin-left: 13vw;
+  }
+  #sect_exp_tn .tn_map_container .Namakkal-cellular-pin-txt {
+    margin-top: 27vw;
+    margin-left: 25vw;
+  }
+  #sect_exp_tn .tn_map_container .Tiruchirappalli-cellular-pin-txt {
+    margin-top: 30vw;
+    margin-left: 28vw;
+  }
+  #sect_exp_tn .tn_map_container .Karur-cellular-pin-txt {
+    margin-top: 35vw;
+    margin-left: 30vw;
+  }
+  #sect_exp_tn .tn_map_container .Perambalur-cellular-pin-txt {
+    margin-top: 28vw;
+    margin-left: 37vw;
+  }
+  #sect_exp_tn .tn_map_container .Nagapattinam-cellular-pin-txt {
+    margin-top: 63vw;
+    margin-left: 57vw;
+  }
+  #sect_exp_tn .tn_map_container .Mayiladuthurai-cellular-pin-txt {
+    margin-top: 30vw;
+    margin-left: 55vw;
+  }
+  #sect_exp_tn .tn_map_container .Thiruvarur-cellular-pin-txt {
+    margin-top: 35vw;
+    margin-left: 45vw;
+  }
+  #sect_exp_tn .tn_map_container .Thanjavur-cellular-pin-txt {
+    margin-top: 35vw;
+    margin-left: 40vw;
+  }
+  #sect_exp_tn .tn_map_container .Pudukottai-cellular-pin-txt {
+    margin-top: 43vw;
+    margin-left: 35vw;
+  }
+  #sect_exp_tn .tn_map_container .Dindigul-cellular-pin-txt {
+    margin-top: 50vw;
+    margin-left: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Theni-cellular-pin-txt {
+    margin-top: 63vw;
+    margin-left: 3vw;
+  }
+  #sect_exp_tn .tn_map_container .Madurai-cellular-pin-txt {
+    margin-top: 55vw;
+    margin-left: 8vw;
+  }
+  #sect_exp_tn .tn_map_container .Sivagangai-cellular-pin-txt {
+    margin-top: 50vw;
+    margin-left: 33vw;
+  }
+  #sect_exp_tn .tn_map_container .Kumbakkonam-cellular-pin-txt {
+    margin-top: 40vw;
+    margin-left: 40vw;
+  }
+  #sect_exp_tn .tn_map_container .Ramanathapuram-cellular-pin-txt {
+    margin-top: 67vw;
+    margin-left: 57vw;
+  }
+  #sect_exp_tn .tn_map_container .Virudhunagar-cellular-pin-txt {
+    margin-top: 60vw;
+    margin-left: 20vw;
+  }
+  #sect_exp_tn .tn_map_container .Tenkasi-cellular-pin-txt {
+    margin-top: 75vw;
+    margin-left: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Thoothukudi-cellular-pin-txt {
+    margin-top: 90vw;
+    margin-left: 40vw;
+  }
+  #sect_exp_tn .tn_map_container .Tirunelveli-cellular-pin-txt {
+    margin-top: 76vw;
+    margin-left: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .Kanyakumari-cellular-pin-txt {
+    margin-top: 82vw;
+    margin-left: 0vw;
+  }
+  #sect_exp_tn .tn_map_container .airport-tool-tip {
+    max-width: 100%;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.241vw solid #F18F20;
+    border-radius: 2.416vw;
+    padding: 3.622vw 3.622vw 3.622vw 5.797vw;
+    box-sizing: border-box;
+    display: none;
+    position: absolute;
+  }
+  #sect_exp_tn .tn_map_container .airport-tool-tip::before {
+    content: "";
+    position: absolute;
+    border-left: 2.416vw solid transparent;
+    border-right: 2.416vw solid transparent;
+    top: 100%;
+    left: 50%;
+    margin-left: -2.416vw;
+    border-top: 2.416vw solid #F18F20;
+    margin-top: 0.241vw;
+  }
+  #sect_exp_tn .tn_map_container .airport-tool-tip::after {
+    content: "";
+    position: absolute;
+    border-left: 2.416vw solid transparent;
+    border-right: 2.416vw solid transparent;
+    top: 100%;
+    left: 50%;
+    margin-left: -2.416vw;
+    border-top: 2.416vw solid white;
+    margin-top: -0.241vw;
+    z-index: 1;
+  }
+  #sect_exp_tn .tn_map_container .airport-tool-tip .tooltip-title {
+    text-align: center;
+    font: normal normal bold 4.348vw/4.587vw Roboto;
+    letter-spacing: 0vw;
+    color: #242424;
+    margin-bottom: 2.416vw;
+  }
+  #sect_exp_tn .tn_map_container .airport-tool-tip .name-container {
+    padding-right: 3.623vw;
+    border-right: 0.242vw solid #F18F20;
+  }
+  #sect_exp_tn .tn_map_container .airport-tool-tip .category_container {
+    padding-left: 3.623vw;
+  }
+  #sect_exp_tn .tn_map_container .airport-tool-tip .list {
+    text-align: left;
+    font: normal normal normal 3.381vw/3.863vw Roboto;
+    letter-spacing: 0vw;
+    color: #4D4D4D;
+    white-space: nowrap;
+  }
+  #sect_exp_tn .tn_map_container .airport-tool-tip .title {
+    text-align: left;
+    font: normal normal 600 3.865vw/3.863vw Roboto;
+    letter-spacing: 0vw;
+    color: #4D4D4D;
+    margin-bottom: 1.934vw;
+  }
+  #sect_exp_tn .tn_map_container .Chennai-airport-pin-txt {
+    margin-top: -13.8vw;
+    margin-left: 7.3vw;
+  }
+  #sect_exp_tn .tn_map_container .Chennai-airport-pin-txt::before {
+    left: 87%;
+  }
+  #sect_exp_tn .tn_map_container .Chennai-airport-pin-txt::after {
+    left: 87%;
+  }
+  #sect_exp_tn .tn_map_container .Coimbatore-airport-pin-txt {
+    margin-top: 28.5vw;
+  }
+  #sect_exp_tn .tn_map_container .Coimbatore-airport-pin-txt::before {
+    left: 21%;
+  }
+  #sect_exp_tn .tn_map_container .Coimbatore-airport-pin-txt::after {
+    left: 21%;
+  }
+  #sect_exp_tn .tn_map_container .Madurai-airport-pin-txt {
+    margin-top: 44.4vw;
+    margin-left: -1vw;
+  }
+  #sect_exp_tn .tn_map_container .Madurai-airport-pin-txt::before {
+    left: 46.5%;
+  }
+  #sect_exp_tn .tn_map_container .Madurai-airport-pin-txt::after {
+    left: 46.5%;
+  }
+  #sect_exp_tn .tn_map_container .Tiruchirappalli-airport-pin-txt {
+    margin-top: 27vw;
+    margin-left: -1vw;
+  }
+  #sect_exp_tn .tn_map_container .Tiruchirappalli-airport-pin-txt::before {
+    left: 55.3%;
+  }
+  #sect_exp_tn .tn_map_container .Tiruchirappalli-airport-pin-txt::after {
+    left: 55.3%;
+  }
+  #sect_exp_tn .tn_map_container .Thoothukudi-airport-pin-txt {
+    margin-top: 64vw;
+    margin-left: 2.7vw;
+  }
+  #sect_exp_tn .tn_map_container .Salem-airport-pin-txt {
+    margin-top: 11.6vw;
+    margin-left: 4.2vw;
+  }
+  #sect_exp_tn .tn_map_container .mapped-pin {
+    display: block;
+  }
+  #sect_exp_tn .tn_map_container .district-name-active {
+    display: block;
+  }
+  #sect_exp_tn .tn_map_container #tn_svg_map {
+    width: 83.575vw;
+    height: 114.734vw;
+  }
+  #sect_exp_tn .tn_map_container .map-pin-hover {
+    transition: all 0.3s ease-out;
+    fill: url(#MyGradient);
+    filter: url(#drop-shadow);
+    transform: translate(0, -0.208vw);
+  }
+  #sect_exp_tn .tn_map_additional_buttons {
+    position: absolute;
+    margin-top: 0;
+    top: 91.546vw;
+    right: 8.454vw;
+  }
+  #sect_exp_tn .tn_map_additional_buttons .world_map_button {
+    width: 11.836vw;
+    height: 12.077vw;
+    margin-bottom: 2.174vw;
+  }
+  #sect_exp_tn .tn_map_additional_buttons .world_map_button img {
+    width: 11.836vw;
+    height: 12.077vw;
+  }
+  #sect_exp_tn .tn_map_additional_buttons .world_map_button:hover + .world_map_btn_tooltip {
+    display: block;
+  }
+  #sect_exp_tn .tn_map_additional_buttons .goolge_maps_button {
+    width: 11.836vw;
+    height: 12.077vw;
+  }
+  #sect_exp_tn .tn_map_additional_buttons .goolge_maps_button img {
+    width: 11.836vw;
+    height: 12.077vw;
+  }
+  #sect_exp_tn .tn_map_additional_buttons .goolge_maps_button:hover + .google_maps_btn_tooltip {
+    display: block;
+  }
+  #sect_exp_tn .tn_map_additional_buttons .map_button_tooltip {
+    display: none;
+    white-space: nowrap;
+    right: 14.493vw;
+    font: normal normal normal 2.899vw/3.14vw Roboto;
+    letter-spacing: 0.087vw;
+    box-shadow: 0vw 0.483vw 0.483vw rgba(0, 0, 0, 0.1607843137);
+    border: 0.242vw solid #F18F20;
+    border-radius: 3.623vw;
+    padding: 0.966vw 3.865vw;
+    background: white;
+  }
+  #sect_exp_tn .tn_map_additional_buttons .world_map_btn_tooltip {
+    top: 3.3vw;
+  }
+  #sect_exp_tn .tn_map_additional_buttons .google_maps_btn_tooltip {
+    top: 17.1vw;
+  }
+  #sect_exp_tn .world_map_modal {
+    display: none;
+    position: fixed;
+    z-index: 100000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  #sect_exp_tn .world_map_modal_content {
+    background: url("../images/homepage-images/explore-tamil-nadu-images/model-bg.svg");
+    margin: auto;
+    margin-top: 22.464vw;
+    width: 91.546vw;
+    height: 132.85vw;
+    position: relative;
+    overflow: hidden;
+    border-radius: 2.521vw;
+  }
+  #sect_exp_tn .world_map_modal_content .world_map_close_btn {
+    width: 7.246vw;
+    height: 7.246vw;
+    right: 9.179vw;
+    top: 27.536vw;
+    position: fixed;
+    z-index: 1;
+  }
+  #sect_exp_tn .world_map_modal_content .world_map_close_btn img {
+    width: 7.246vw;
+    height: 7.246vw;
+  }
+  #sect_exp_tn .world_map_modal_content .world_map_img_container {
+    width: 64.962vw;
+    overflow-x: hidden;
+    height: 38.794vw;
+    margin-top: 4.618vw;
+    margin-left: 5.382vw;
+  }
+  #sect_exp_tn .world_map_modal_content .world_map_img_container #world_map_zoomed_out {
+    width: 91.787vw;
+    height: 132.85vw;
+    transition: transform 1s, opacity 1s;
+    transform-origin: 50% 50%;
+  }
+  #sect_exp_tn .world_map_modal_content .world_map_img_container #world_map_zoomed_in {
+    opacity: 0;
+    width: 91.787vw;
+    height: 132.85vw;
+    transition: transform 1s, opacity 1s;
+  }
+  #sect_exp_tn .world_map_modal_content .world_map_zoom_btn {
+    width: 8.454vw;
+    height: 8.454vw;
+    position: fixed;
+    bottom: auto;
+    top: 137.198vw;
+    right: 9.179vw;
+  }
+  #sect_exp_tn .world_map_modal_content .world_map_zoom_btn img {
+    width: 8.454vw;
+    height: 8.454vw;
+  }
+  #sect_exp_tn .map_legend {
+    letter-spacing: 0vw;
+    width: 84.541vw;
+    margin: auto;
+    margin-top: 0;
+  }
+  #sect_exp_tn .map_legend .dist_legend_container {
+    display: flex;
+    padding-left: 4.589vw;
+    margin-bottom: 2.899vw;
+  }
+  #sect_exp_tn .map_legend .dist_legend_container .dist_legend_img {
+    margin-right: 2.415vw;
+    width: 3.623vw;
+    height: 3.623vw;
+  }
+  #sect_exp_tn .map_legend .dist_legend_container .dist_legend_img img {
+    width: 3.623vw;
+    height: 3.623vw;
+  }
+  #sect_exp_tn .map_legend .dist_legend_container .dist_legend_text {
+    font: normal normal normal 3.382vw/3.865vw Roboto;
+    color: #5A5A5A;
+    margin-right: 9.42vw;
+  }
+  #sect_exp_tn .map_legend .dist_legend_description {
+    font: normal normal normal 2.657vw/3.382vw Roboto;
+    color: #9B9B9B;
+  }
+}
+@media only screen and (max-width: 767px) {
+  #world-business-call {
+    padding-top: 9.903vw;
+    padding-bottom: 9.661vw;
+    background: #F0F0F0;
+  }
+  #world-business-call .world-business-title {
+    text-align: center;
+    font: normal normal normal 5.797vw/7.246vw Poppins;
+    letter-spacing: 0vw;
+    color: #000000;
+    position: relative;
+    margin-bottom: 8.213vw;
+    padding-right: 10.628vw;
+    padding-left: 10.628vw;
+  }
+  #world-business-call .world-business-title:before {
+    display: none;
+  }
+  #world-business-call .world-business-title:after {
+    display: none;
+  }
+  #world-business-call .busi-margin-slide {
+    margin-right: 3.8647vw;
+  }
+  #world-business-call .world-business-call-bottom {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .ti-oflw-scroll {
+    overflow: scroll;
+    display: flex;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .ti-oflw-scroll::-webkit-scrollbar {
+    display: none;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .carousel-control-prev {
+    display: none;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .carousel-control-prev img {
+    display: none;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .carousel-control-next {
+    display: none;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .carousel-control-next img {
+    display: none;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .top_business_slide {
+    overflow: scroll;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .top_business_slide::-webkit-scrollbar {
+    display: none;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .top_business_slide .business-card {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 2.415vw;
+    margin-left: 2.415vw;
+    margin-right: 2.415vw;
+    min-width: 80.676vw;
+    height: 77.295vw;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .top_business_slide .business-card:last-child {
+    margin-right: 2.415vw;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .top_business_slide .business-card .card-image {
+    text-align: center;
+    margin: 0;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .top_business_slide .business-card .bc-profile-image {
+    width: 21.739vw;
+    height: 21.739vw;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .top_business_slide .business-card .bc-profile-image img {
+    width: 21.739vw;
+    height: 21.739vw;
+    border: 1.449vw solid #FFFFFF;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .top_business_slide .business-card .bc-profile-name {
+    text-align: center;
+    font: normal normal bold 4.348vw/6.0386vw Poppins;
+    letter-spacing: 0.022vw;
+    color: #242424;
+    margin-bottom: 0;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .top_business_slide .business-card .bc-content {
+    text-align: center;
+    font: normal normal normal 3.382vw/4.589vw Roboto;
+    letter-spacing: 0vw;
+    color: #575757;
+    margin-bottom: 3.14009vw;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .top_business_slide .business-card .bc-mb-content {
+    margin-bottom: 1vw;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .top_business_slide .business-card .bc-description {
+    text-align: center;
+    font: normal normal normal 2.93vw/4.348vw Roboto;
+    letter-spacing: 0vw;
+    color: #707070;
+    padding-left: 4.227vw;
+    padding-right: 3.986vw;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .top_business_slide .bc-ml-mb {
+    margin-left: 3.865vw;
+  }
+  #world-business-call .world-business-call-bottom #top_busi_carousel .top_business_slide .bc-mr-mb {
+    margin-right: 3.865vw;
+  }
+}
+/* ===============================================
+					Section : Top Investors
+=============================================== */
+@media only screen and (max-width: 767px) {
+  .invs_scroll_right_margin {
+    margin-right: 3.865vw;
+  }
+  #sect_top_invs {
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 10.87vw;
+    margin-bottom: 0;
+    background: #F0F0F0;
+  }
+  #sect_top_invs .overflow_scroll {
+    overflow: scroll;
+    display: flex;
+  }
+  #sect_top_invs .overflow_scroll::-webkit-scrollbar {
+    display: none;
+  }
+  #sect_top_invs .top_invs_title {
+    text-align: center;
+    padding: 0 30.918vw;
+    font: normal normal normal 5.797vw/6.039vw Poppins;
+    letter-spacing: 0vw;
+    color: #000000;
+    position: relative;
+    margin-bottom: 7.246vw;
+  }
+  #sect_top_invs .top_invs_title:before {
+    content: "";
+    display: block;
+    width: 12.077vw;
+    height: 0.483vw;
+    background: #242424;
+    top: 50%;
+    position: absolute;
+    border: 0.1042vw solid #000;
+    left: 15.338vw;
+  }
+  #sect_top_invs .top_invs_title:after {
+    content: "";
+    display: block;
+    width: 12.077vw;
+    height: 0.483vw;
+    background: #242424;
+    top: 50%;
+    position: absolute;
+    border: 0.1042vw solid #000;
+    right: 15.338vw;
+  }
+  #sect_top_invs .top_invs_bottom {
+    padding: 0 0;
+    background: #F0F0F0;
+  }
+  #sect_top_invs .top_invs_bottom .carousel-control-prev {
+    display: none;
+  }
+  #sect_top_invs .top_invs_bottom .carousel-control-prev img {
+    display: none;
+  }
+  #sect_top_invs .top_invs_bottom .carousel-control-next {
+    display: none;
+  }
+  #sect_top_invs .top_invs_bottom .carousel-control-next img {
+    display: none;
+  }
+  #sect_top_invs .top_invs_bottom .top_invs_slide {
+    display: flex;
+    overflow: scroll;
+    margin-left: 3.865vw;
+  }
+  #sect_top_invs .top_invs_bottom .top_invs_slide::-webkit-scrollbar {
+    display: none;
+  }
+  #sect_top_invs .top_invs_bottom .top_invs_slide .top_invs_img_container {
+    min-width: 25.362vw;
+    height: 17.15vw;
+    background: rgba(255, 255, 255, 0.9098039216);
+    border-radius: 2.415vw;
+    margin-left: 0;
+    margin-right: 1.449vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #sect_top_invs .top_invs_bottom .top_invs_slide .top_invs_img_container:nth-child(1) {
+    margin-left: 0;
+  }
+  #sect_top_invs .top_invs_bottom .top_invs_slide .top_invs_img_container:nth-child(5) {
+    margin-right: 0;
+  }
+  #sect_top_invs .top_invs_bottom .top_invs_slide .top_invs_img_container #img_yamaha {
+    width: 20.773vw;
+    height: 4.539vw;
+  }
+  #sect_top_invs .top_invs_bottom .top_invs_slide .top_invs_img_container .asp_rat_one {
+    width: 17.15vw;
+    height: 17.15vw;
+  }
+  #sect_top_invs .top_invs_bottom .top_invs_slide .top_invs_img_container .asp_rat_two {
+    width: 25.362vw;
+    height: 12.681vw;
+  }
+}
+/* ===============================================
+					Section : LATEST NEWS
+=============================================== */
+@media only screen and (max-width: 767px) {
+  #sect_latest_news {
+    padding-top: 9.662vw;
+    padding-bottom: 0;
+  }
+  #sect_latest_news .latest_news_title {
+    text-align: center;
+    font: normal normal normal 5.797vw/6.039vw Poppins;
+    letter-spacing: 0vw;
+    color: #000000;
+    position: relative;
+    margin-bottom: 6.191vw;
+  }
+  #sect_latest_news .latest_news_title:before {
+    content: "";
+    display: block;
+    width: 12.077vw;
+    height: 0.242vw;
+    background: #242424;
+    top: 50%;
+    position: absolute;
+    border-top: 0.483vw solid #000000;
+    left: 17.271vw;
+  }
+  #sect_latest_news .latest_news_title:after {
+    right: 17.271vw;
+    content: "";
+    display: block;
+    width: 12.077vw;
+    height: 0.242vw;
+    background: #242424;
+    top: 50%;
+    position: absolute;
+    border-top: 0.483vw solid #000000;
+  }
+  .latest_news_card_container {
+    padding-left: 3.865vw;
+    padding-right: 0;
+    margin-bottom: 9.662vw;
+    display: block;
+    overflow: scroll;
+  }
+  .latest_news_card_container::-webkit-scrollbar {
+    display: none;
+  }
+  .latest_news_card_container .first_two_cards_container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 9.662vw;
+    overflow: scroll;
+    margin-right: 0;
+  }
+  .latest_news_card_container .first_two_cards_container::-webkit-scrollbar {
+    display: none;
+  }
+  .latest_news_card_container .l_news_scroll_right_margin {
+    margin-right: 3.865vw;
+  }
+  .latest_news_card_container .latest_news_card {
+    border: 0.242vw solid rgba(0, 0, 0, 0.1490196078);
+    border-radius: 2.415vw;
+    background: #fff;
+    width: 82.367vw;
+    height: auto;
+  }
+  .latest_news_card_container .latest_news_card:hover {
+    border-radius: 2.415vw;
+    background: #F18F20 0% 0% no-repeat padding-box;
+    box-shadow: 0 0.1042vw 1.09vw rgba(0, 0, 0, 0.2470588235);
+    border: 0.242vw solid rgba(0, 0, 0, 0.1490196078);
+  }
+  .latest_news_card_container #l_news_card1 {
+    margin-right: 4.831vw;
+  }
+  .latest_news_card_container #l_news_card2 {
+    margin-right: 4.831vw;
+  }
+  .l_news_card_top {
+    position: relative;
+    overflow: hidden;
+    border-radius: 1.932vw;
+  }
+  .l_news_card_top img {
+    width: 82.367vw;
+    height: 48.309vw;
+    transition: 0.5s;
+  }
+  .l_news_card_top .grad_bg {
+    height: 19.565vw;
+  }
+  .l_news_card_top #l_news_card_img_container_1 {
+    background: url("../images/homepage-images/latest-news-images/temple.png") 0% 0% no-repeat padding-box;
+  }
+  .l_news_card_top #l_news_card_img_container_2 {
+    background: url("../images/homepage-images/latest-news-images/airplane.png") 0% 0% no-repeat padding-box;
+  }
+  .l_news_card_top .l_news_card_toptext {
+    position: absolute;
+    left: 6.763vw;
+    bottom: 2.886vw;
+    text-align: left;
+    font-weight: medium;
+    font: normal normal 2.415vw/3.865vw Poppins;
+    letter-spacing: 0vw;
+    color: #FFFFFF;
+  }
+  .latest_news_card:hover .l_news_card_top img {
+    transform: scale(1.2);
+  }
+  .latest_news_card:hover .l_news_card_bottom .l_news_card_title {
+    color: #fff;
+  }
+  .latest_news_card:hover .l_news_card_bottom .l_new_card_content .l_new_card_content_p {
+    color: #FFFFFF;
+  }
+  .latest_news_card:hover .l_news_card_bottom .l_new_card_content .l_news_mobile_extra_content {
+    display: none;
+  }
+  .l_news_card_bottom {
+    padding: 4.725vw 3.14vw 9.751vw 6.763vw;
+  }
+  .l_news_card_bottom .l_news_card_title {
+    font-weight: medium;
+    text-align: left;
+    font: normal normal 4.831vw/5.42vw Poppins;
+    letter-spacing: 0vw;
+    color: #000000;
+    margin-bottom: 2.313vw;
+    transition: 0.5s;
+  }
+  .l_news_card_bottom .l_new_card_content .l_new_card_content_p {
+    text-align: left;
+    font: normal normal normal 3.382vw/4.348vw Roboto;
+    letter-spacing: 0vw;
+    color: #9B9B9B;
+    transition: 0.5s;
+  }
+  .l_news_card_bottom .l_new_card_content .l_news_mobile_extra_content {
+    display: inline;
+  }
+  .l_news_card_bottom .l_new_card_content .l_news_card_button {
+    text-align: center;
+    border: 0.242vw solid #F18F20;
+    border-radius: 4.831vw;
+    padding: 0.966vw 4.831vw 1.208vw 5.072vw;
+    background: #fff;
+    margin-top: 3.005vw;
+    font: normal normal normal 2.899vw/3.865vw Roboto;
+    letter-spacing: 0.014vw;
+    color: #F18F20;
+  }
+  .l_news_card_bottom .l_new_card_content .l_news_card_button:hover {
+    text-decoration: none;
+  }
+  .twitter_card_mobile_container {
+    padding: 0 3.865vw;
+  }
+  .l_news_twitter_card {
+    height: 127.053vw;
+    width: 92.271vw;
+    padding: 4.348vw 7.005vw 6.312vw 4.379vw;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.242vw solid rgba(0, 0, 0, 0.2);
+    border-radius: 2.415vw;
+    overflow: hidden;
+  }
+  .twitter_card_top .twitter_card_title_logo {
+    width: 6.973vw;
+    height: 5.664vw;
+    margin-right: 3.616vw;
+    align-items: center;
+  }
+  .twitter_card_top .twitter_card_title_logo img {
+    width: 6.973vw;
+    height: 5.664vw;
+  }
+  .twitter_card_top .twitter_title_line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .twitter_card_top .twitter_title_line .twitter_logo_title_container {
+    display: flex;
+    position: relative;
+    align-items: center;
+  }
+  .twitter_card_top .twitter_title_line .twitter_card_title {
+    font-weight: bold;
+    font: normal normal 4.348vw/6.522vw Poppins;
+    letter-spacing: 0vw;
+    color: #000000;
+    display: inline;
+  }
+  .twitter_card_top .twitter_title_line .twitter_card_follow_btn {
+    background: #F18F20;
+    border-radius: 4.831vw;
+    padding: 1.208vw 4.831vw 0.966vw;
+    font: normal normal normal 2.899vw/3.865vw Roboto;
+    letter-spacing: 0.014vw;
+    color: #FFFFFF;
+    display: inline-table;
+  }
+  .twitter_card_top .twitter_title_line .twitter_card_follow_btn:hover {
+    text-decoration: none;
+  }
+  .twitter_card_top .twitter_card_top_line {
+    border-top: 0.242vw solid #707070;
+    opacity: 0.2;
+    margin-top: 2.597vw;
+    margin-bottom: 3.147vw;
+  }
+  .twitter_card_bottom {
+    overflow-y: scroll;
+    margin-top: 3.147vw;
+    max-height: 103.865vw;
+  }
+  .twitter_card_bottom .twitter_card_content {
+    padding: 0 12.138vw 5.039vw 9.3vw;
+    position: relative;
+  }
+  .twitter_card_bottom .twitter_content_hr_line {
+    border-top: 0.483vw solid #E2E2E2;
+    margin-bottom: 4.647vw;
+    margin-top: 0;
+  }
+  .twitter_card_bottom::-webkit-scrollbar {
+    display: none;
+  }
+  .twitter_card_content .twitter_card_content_logo {
+    width: 5.568vw;
+    height: 5.684vw;
+    position: absolute;
+    top: 0.597vw;
+    left: 1.894vw;
+  }
+  .twitter_card_content .twitter_card_content_logo img {
+    width: 5.568vw;
+    height: 5.684vw;
+  }
+  .twitter_card_content .twitt_content_first_line {
+    display: flex;
+    justify-content: space-between;
+  }
+  .twitter_card_content .twitt_title {
+    text-align: left;
+    font-weight: bold;
+    font: normal normal 3.865vw/5.072vw Roboto;
+    letter-spacing: 0.019vw;
+    color: #000000;
+  }
+  .twitter_card_content .twitt_date {
+    text-align: left;
+    font: normal normal normal 2.899vw/3.865vw Roboto;
+    letter-spacing: 0vw;
+    color: #9B9B9B;
+    margin-right: 0.205vw;
+  }
+  .twitter_card_content .twitt_handle {
+    text-align: left;
+    font: normal normal normal 3.382vw/4.589vw Roboto;
+    letter-spacing: 0vw;
+    color: #297ADF;
+    margin-bottom: 0.998vw;
+  }
+  .twitter_card_content .twitt_content {
+    text-align: left;
+    font: normal normal normal 3.382vw/4.106vw Roboto;
+    letter-spacing: 0.017vw;
+    color: #000000;
+  }
+  .twitter_card_content .twitt_expand {
+    text-align: left;
+    font: normal normal normal 3.382vw/4.589vw Roboto;
+    letter-spacing: 0vw;
+    color: #9B9B9B;
+    margin-top: 1.42vw;
+  }
+  .twitter_card_content .twitt_last_line {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 1.239vw;
+    font: normal normal normal 3.865vw/5.072vw Roboto;
+    letter-spacing: 0.092vw;
+    color: #9B9B9B;
+    margin-top: 1.812vw;
+  }
+  .twitter_card_content #twitter_content1 {
+    display: none;
+  }
+  .twitter_card_content #twitter_content2 {
+    display: none;
+  }
+  .twitter_card_content #twitter_content3 {
+    display: none;
+  }
+  .twitter_card_content .twitt_last_line .twitter_like {
+    width: 3.819vw;
+    height: 3.331vw;
+    margin-right: 2.998vw;
+  }
+  .twitter_card_content .twitt_last_line .twitter_like img {
+    width: 3.819vw;
+    height: 3.331vw;
+  }
+  .twitter_card_content .twitt_last_line .twitter_dislike {
+    width: 3.476vw;
+    height: 3.331vw;
+    margin-right: 3.309vw;
+  }
+  .twitter_card_content .twitt_last_line .twitter_dislike img {
+    width: 3.476vw;
+    height: 3.331vw;
+  }
+  .twitter_card_content .twitt_last_line .twitter_retweet {
+    width: 2.56vw;
+    height: 3.331vw;
+    margin-right: 2.71vw;
+  }
+  .twitter_card_content .twitt_last_line .twitter_retweet img {
+    width: 2.56vw;
+    height: 3.331vw;
+  }
+  .twitter_card_content .twitt_last_line .twitt_last_line .twitter_like {
+    width: 1.076vw;
+    height: 0.938vw;
+    margin-right: 0.228vw;
+  }
+  .twitter_card_content .twitt_last_line .twitt_last_line .twitter_like img {
+    width: 1.076vw;
+    height: 0.938vw;
+  }
+  .twitter_card_content .twitt_last_line .twitt_last_line .twitter_dislike {
+    width: 1.154vw;
+    height: 1.106vw;
+    margin-right: 0.208vw;
+  }
+  .twitter_card_content .twitt_last_line .twitt_last_line .twitter_dislike img {
+    width: 1.154vw;
+    height: 1.106vw;
+  }
+  .twitter_card_content .twitt_last_line .twitt_last_line .twitter_retweet {
+    width: 0.721vw;
+    height: 0.938vw;
+    margin-right: 0.046vw;
+  }
+  .twitter_card_content .twitt_last_line .twitt_last_line .twitter_retweet img {
+    width: 0.721vw;
+    height: 0.938vw;
+  }
+}
+/* =============================================================
+					ARROW NAVIGATOR
+============================================================= */
+@media only screen and (max-width: 767px) {
+  .back_to_top {
+    margin-left: auto;
+    margin-right: 4.106vw;
+    margin-bottom: 4.831vw;
+    width: 9.662vw;
+    height: 9.662vw;
+  }
+  .back_to_top img {
+    width: 9.662vw;
+    height: 9.662vw;
+  }
+}/*# sourceMappingURL=responsive.css.map */

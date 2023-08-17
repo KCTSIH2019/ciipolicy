@@ -1,0 +1,11 @@
+<svg id="Component_276_13" data-name="Component 276 – 13" xmlns="http://www.w3.org/2000/svg" width="82" height="45" viewBox="0 0 82 45">
+  <g id="Rectangle_17881" data-name="Rectangle 17881" fill="#fff" stroke="#f18f20" stroke-width="1">
+    <rect width="82" height="45" rx="22.5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="81" height="44" rx="22" fill="none"/>
+  </g>
+  <g id="right-arrow" transform="translate(24 14)">
+    <g id="Group_4469" data-name="Group 4469" transform="translate(0 0)">
+      <path id="Path_17228" data-name="Path 17228" d="M.39,139.294h0l6.94-6.906A1.328,1.328,0,0,1,9.2,134.27l-4.659,4.637H32.672a1.328,1.328,0,0,1,0,2.656H4.545L9.2,146.2a1.328,1.328,0,0,1-1.874,1.883l-6.94-6.906h0A1.329,1.329,0,0,1,.39,139.294Z" transform="translate(0 -132)" fill="#f18f20"/>
+    </g>
+  </g>
+</svg>

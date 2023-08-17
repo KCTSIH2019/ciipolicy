@@ -1,0 +1,852 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1">
+    
+    
+
+    
+
+    <script type="text/javascript">
+        document.documentElement.className += " js";
+    </script>
+
+    
+
+    <script src="/js/scriptMI.js" type="text/javascript"></script>
+   
+<meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <!--for iOS-->
+    <meta name="format-detection" content="telephone=no" /><meta name="description" /><meta name="author" /><link rel="shortcut icon" href="images/favicon.ico" /><link rel="shortcut icon" href="images/favicon/favicon.png" /><link rel="apple-touch-icon" href="images/favicon/apple-touch-icon.png" /><link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-touch-icon-72x72.png" /><link rel="apple-touch-icon" sizes="114x114" href="images/favicon/apple-touch-icon-114x114.png" /><title>
+	Foreign Investment Facilitation Portal, INDIA
+</title>
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet" media="all" /><link href="css/responsive.css" rel="stylesheet" media="all" /><link href="css/reset.css" rel="stylesheet" media="all" /><link href="css/font-awesome.min.css" rel="stylesheet" /><link href="//fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <!-- Custom JS for this template -->
+
+    
+    <script type="text/javascript" src="/js/jquery-3.3.1.min.js"></script>
+
+    <script type="text/javascript" src="/js/jquery.bootstrap.newsbox.min.js"></script>
+
+    <script type="text/javascript" src="/js/framework.js"></script>
+
+    <script type="text/javascript" src="/js/font-size.js"></script>
+
+    <script type="text/javascript" src="/js/swithcer.js"></script>
+
+    <script type="text/javascript" src="/js/responsiveslides.min.js"></script>
+
+    <script type="text/javascript" src="/Scripts/sha256.js"></script>
+
+    <script type="text/javascript" src="/Scripts/print.js"></script>
+
+    <script type="text/javascript" src="/Scripts/validate.js"></script>
+    <script type="text/javascript" src="/js/scriptMI.js"></script>
+    <!-- First, add jQuery (and jQuery UI if using custom animation -->
+
+    
+    
+    
+    <script src="src/skdslider.min.js" type="text/jscript"></script>
+    <link href="src/skdslider.css" rel="stylesheet" />
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            jQuery('#demo1').skdslider({
+                slideSelector: '.slide',
+                delay: 5000,
+                animationSpeed: 2000,
+                showNextPrev: false,
+                showPlayButton: false,
+                autoSlide: true,
+                animationType: 'fading'
+            });
+        });
+    </script>
+
+    <script type="text/javascript">
+        function burstCache() {
+            if (!navigator.onLine) {
+                document.body.innerHTML = 'Loading...';
+                sessionStorage.clear();
+                window.location = 'Error.html';
+            }
+        }
+
+    </script>
+
+    <script type="text/javascript">
+        var a = navigator.onLine;
+        if (a) {
+            // alert('online');
+        }
+        else {
+            // alert('offline');
+            sessionStorage.clear();
+
+            window.location = 'Error.html';
+        }
+    </script>
+
+    <script type="text/javascript">
+        function DisableButtons() {
+            var inputs = document.getElementsByTagName("INPUT");
+            for (var i in inputs) {
+                if (inputs[i].type == "button" || inputs[i].type == "submit") {
+                    inputs[i].disabled = true;
+                }
+            }
+        }
+        window.onbeforeunload = DisableButtons;
+    </script>
+
+</head>
+<body onload="makeItMove('container','userAction','textItem',40);">
+    <form name="aspnetForm" method="post" action="./Default.aspx" id="aspnetForm" autocomplete="off">
+<input type="hidden" name="ctl00_ToolkitScriptManager1_HiddenField" id="ctl00_ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/ScriptResource.axd?d=JhrMkm8qlOhA451OxGb06l0GIrrwK7Yis1MAooa0Qv0Vj9hmvmlq4tTl4YSbw8pCwlTIkfgHORkkEPHtWYhMyuRhi7p1SVmDUzGDeIamhSWCpmlB_p7tfzHP0zYbzGjQLPjnDAkRiBf1u89h5ck5m0gLhfBePEp3iDFGRQvVH2rHeEBg0&amp;t=ffffffffaa493ab8" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="YT976fCLGt8skAOrnkKQxZf2C1jd8aWfY+Py0T7jOARAgyBTEGNmg8/cc3O/K+fL9oaqssn4jHaurfxhWZp0pHtLeIUo8ulGqCohLqf5dTwB9q5KVqbvByk1XgOK9ZeBCbtlq+HujR4u/5xE28SZFe0reM64C91xavTTKV95QffNU1YHuKf1cfbYYDLFo/zElunPkjTa6OHa03b+izmS6uk/Vaiev5AgESbor/5S43Udw3Ch023Bw29Ehknq5n3Ae4VBLIg5B00JpS3HLPd5HJ15b8rbdKenqVr3EaprBI82hLwjKUFu/JK4nSzOJeek6UelOoKsCJCs4eOMvTRZdmLrGjF9QjbV0rR3tudoxw0N7R5P1WUxL7VWyfj2YfwkFw54b967SMcR1SLHulopIFw5dloEpN0X9526wvSPugYadOl7" />
+        
+        <div class="wrapper common-wrapper">
+            <div class="container common-container">
+                <div class="common-left clearfix">
+                    <ul>
+                        <li class="gov-india"><a title="National Portal of India, External Link that opens in a new window" href="http://india.gov.in" target="_blank"><span>भारत सरकार</span>GOVERNMENT OF INDIA</a></li>
+                        <li class="ministry"><span>वाणिज्य और उद्योग मंत्रालय</span>Ministry of Commerce and Industry</li>
+                    </ul>
+                </div>
+                <div class="common-right clearfix">
+                    <ul id="header-nav">
+                        <li class="ico-skip"><a title="Skip to main content" href="#skipMain"></a></li>
+                        
+                        <li class="ico-accessibility"><a title="Accessibility Dropdown" id="toggleAccessibility" href="javascript:void(0);"></a>
+                            <ul>
+                                <li><a href="javascript:void(0);" title="Increase font size" onclick="set_font_size('increase')">A<sup>+</sup></a> </li>
+                                <li><a href="javascript:void(0);" title="Reset font size" onclick="set_font_size('')">A<sup>&nbsp;</sup></a> </li>
+                                <li><a href="javascript:void(0);" title="Decrease font size" onclick="set_font_size('decrease')">A<sup>-</sup></a> </li>
+                                <li><a title="High Contrast" class="high-contrast dark" href="javascript:void(0);">A</a> </li>
+                                <li><a title="Normal Contrast" class="high-contrast light" href="javascript:void(0);">A</a> </li>
+
+                            </ul>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <header class="wrapper header-wrapper">
+            <div class="emblem">
+                <img src="/images/emblem-dark.png" alt="emblem" />
+            </div>
+            
+            <h1>Foreign Investment<br />
+                Facilitation Portal <span>Department for Promotion of Industry and Internal Trade, Ministry of Commerce and Industry</span></h1>
+            
+
+            <div class="accessibility clearfix">
+
+                <ul class="clearfix">
+                    <a class="mii-logo" title="Make In India, External Link that opens in a new window" href="http://www.makeinindia.com/" target="_blank">
+                        <img src="/images/make-in-india-header.png" />
+                    </a>
+                    <a class="sw-logo" title="Swachh Bharat, External Link that opens in a new window" href="https://swachhbharat.mygov.in/" target="_blank">
+                        <img src="/images/swach-bharat.png" /></a>
+
+
+
+                </ul>
+
+
+            </div>
+
+        </header>
+        <!--/.header-wrapper-->
+        <nav class="wrapper nav-wrapper" id="skipMain">
+            <a class="toggle-nav-bar clearfix" href="javascript:void(0);"><i class="fa fa-align-justify"></i></a>
+            <div class="container nav-container">
+                
+                
+
+                
+                <ul id="Menu1" class="nav" style="font-size: medium; font-family: Roboto;">
+                    <li><a href="Default.aspx">Home</a></li>
+                    <li><a href="AboutUs.aspx">About Us</a></li>
+                    <li><a href="Default.aspx">Comprehensive Corner</a>
+                        <ul>
+                            <li><a href="Default.aspx">Policy and Regulations</a>
+                                <ul>
+                                    <li><a href="http://dpiit.gov.in/foreign-direct-investment/foreign-direct-investment-policy" target="_blank">FDI Policy</a></li>
+                                    <li><a href="http://www.rbi.org.in/scripts/bs_apcircularsdisplay.aspx" target="_blank">RBI Regulations</a></li>
+                                    <li><a href="https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=3&smid=0" target="_blank">SEBI Regulations</a></li>
+                                    <li><a href="http://www.mca.gov.in/MinistryV2/companiesact2013.html" target="_blank">Companies Act & Rules</a></li>
+                                    
+                                    <li><a href="Default.aspx">FEMA</a>
+                        <ul>
+                            <li><a href="Forms/FEMA_1999.pdf" target="_blank">FEMA, 1999</a></li>
+                            <li><a href="Forms/FEM_NDI_RULES_2019.pdf" target="_blank">FEM (NDI) Rules, 2019</a></li>
+                            </ul>
+                            </li>
+                                </ul>
+                            </li>
+                                
+                            
+			
+                            <li><a href="attachments/nic_2008_17apr09.pdf" target="_blank">NIC Code Document</a></li>
+                            <li><a href="FIFPForm.aspx">Forms</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="Default.aspx">Publications</a>
+                        <ul>
+                            
+                            <li><a href="http://dpiit.gov.in/policies-rules-and-acts/press-notes-fdi-circular" target="_blank">Press Note/FDI Circulars</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="Default.aspx">Related Links</a>
+                        <ul>
+                            <li><a href="http://dpiit.gov.in/" target="_blank">Department for Promotion of Industry and Internal Trade</a></li>
+                            <li><a href="http://www.rbi.org.in/home.aspx" target="_blank">Reserve Bank of India</a></li>
+                            <li><a href="https://www.sebi.gov.in/" target="_blank">Securities and Exchange Board of India</a></li>
+                            <li><a href="https://www.irdai.gov.in/Defaulthome.aspx?page=H1" target="_blank">IRDA</a></li>
+                        </ul>
+                    </li>
+                    
+                    <li><a href="Default.aspx">Statistics Corner</a>
+                        <ul>
+                            <li><a href="http://dpiit.gov.in/publications/fdi-statistics" target="_blank">FDI Statistics</a></li>
+                            
+                        </ul>
+                    </li>
+                    <li><a href="Default.aspx">Notices</a>
+                        <ul>
+                            <li><a href="Forms/OMabolitionFIPB.pdf" target="_blank">Abolition of FIPB</a></li>
+                            <li><a href="Forms/SOP.pdf" target="_blank">Standard Operation Procedure (SOP) for FDI Proposal</a></li>
+                            <li><a href="Forms/SOP_Clarification.pdf" target="_blank">Clarification on SOP</a></li>
+                        </ul>
+                    </li>
+                    
+			<li><a href="FIFP_FAQ.aspx" target="_blank">FAQ</a>
+                    <ul>
+                    <li><a href="/Forms/FAQs_FIFPortal.pdf" target="_blank">FAQ FIF-Portal</a></li>
+                    <li><a href="/Forms/FAQs_FDIPolicy.pdf" target="_blank">FAQ FDI-Policy</a></li>
+  		    <li><a href="/Forms/FAQs_FDIDataCell.pdf" target="_blank">FAQ FDI-Data</a></li>
+                    </ul></li>
+                    <li><a href="Authenticate/Login.aspx">User Login</a></li>
+                    <li><a href="Public/ApplicantRegister.aspx">Registration</a></li>
+                </ul>
+
+            </div>
+        </nav>
+        <!--/.nav-wrappe-->
+        
+    <div style="color: Red; font-size: 20px; font-weight: bold">
+        <marquee scrollamount="10">Public Notice: There is no fees for submission of any proposal at FIFP.</marquee>
+    </div>
+    <section class="wrapper body-wrapper" id="fontSize">
+    
+
+
+      <div id="demo1">
+      <div class="slide">
+        <img src="https://dpiit.gov.in/sites/default/files/AKAM-banner-new-DPIIT.jpg" alt="Azadi Ka Amrit Mahotsav" />
+        <!--Slider Description example-->
+         
+     </div>
+    <div class="slide">
+       <!--<img src="https://dpiit.gov.in/sites/default/files/PM-mementoes-new.jpg" alt="e-Auction of Mementos presented to the Prime Minister" />-->
+       <img src="https://dpiit.gov.in/sites/default/files/AKAM-banner-new-DPIIT.jpg" alt="Azadi Ka Amrit Mahotsav" />
+   </div>
+   <div class="slide">
+      <img alt="cbps" src="images/agniVeer2022.jpg" id="_qbPquqmcc0B1LvrS" onclick="javascript:window.open('https://cbpssubscriber.mygov.in/aff/qbPquqmcc0B1LvrS')" style="cursor:pointer" onload="javascript:(function(){if(typeof _done == 'undefined' || !_done){this.setAttribute('src', this.getAttribute('src')+'?'+Math.floor((Math.random() * 100) + 1)); _done=true;}}).call(this)" draggable="false">
+      <!--NO Description Here-->
+   </div>
+   
+</div>
+
+
+
+
+
+	<div class="container body-container">
+    	<aside class="sidebar clearfix">
+            
+            
+            
+        <section class="whats-new clearfix">
+        	<h3 class="widgetTitle">Public Notice</h3>
+            <div class="wrap">
+            <div class="whats-new-holder clearfix">
+            	
+                <div class="NewupdatesBlock">
+                <a href="javascript:clearTimeout(timer);makeItMove('Newcontainer','NewuserAction','NewtextItem',-1);">
+                <img src="images/play_btn.gif" alt="Start"></a> 
+                <a href="javascript:makeItMove('Newcontainer','NewuserAction','NewtextItem',210);">
+                <img src="images/stop_btn.gif" alt="Stop"></a>
+                    </div> 
+                  <div class="whats-new-bottom clearfix scroll">
+                <div class="whats-new-content clearfix">
+                
+                
+                
+<div id="Newcontainer">
+
+<div id="NewtextItem"> 
+
+               
+            
+                <span class="subject2" style="color:Red;">
+                 <span id="ctl00_ContentPlaceHolder1_Repeater2_ctl00_lblgNotice"><font size="3">The format of Security Clearance form has been changed and is available on the portal. Kindly upload the new form else your application will not be entertained.</font></span>
+                   
+                       </span>
+           
+       
+   
+                
+                </div> 
+                </div> 
+                </div>
+                    
+                  </div>
+                
+                
+            </div>
+                </div>
+        </section>
+            
+        
+     
+        </aside>
+        <article class="content-area clearfix">
+        <section class="whats-new clearfix">
+        	
+            <div class="wrap" style="height:200px;">
+            <div class="whats-new-holder clearfix">
+            	
+                
+                  <div class="whats-new-bottom clearfix scroll">
+                <div class="whats-new-content clearfix">
+                
+                
+                
+<div id="Newcontainer">
+
+<div id="NewtextItem"> 
+    <h2>Welcome to Foreign Investment Facilitation Portal(FIFP), INDIA  </h2>
+            <p style="text-align:justify;">The Foreign Investment Facilitation Portal <strong>(FIFP)</strong> is the new online single point interface of the Government of India for investors to facilitate Foreign Direct Investment. This portal is being administered by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce & Industry. This portal will continue to facilitate the single window clearance of applications which are through approval route.  Upon receipt of the FDI application, the concerned Administrative Ministry/Department shall process the application as per the <a id="ctl00_ContentPlaceHolder1_HyperLink3" href="Forms/SOP.pdf" target="_blank"><b> Standard Operation Procedure (SOP).</b></a> If the online filing of application is with digital signature by authorised signatory, physical submission of the copy is not required.  For applications without digital signature, once the e-filing of the application is completed, the applicant is required to file/courier only SINGLE signed copy of the printed version of the online application, along with the duly authenticated copy of the documents attached with the application, to the <a id="ctl00_ContentPlaceHolder1_HyperLink5" href="Forms/ListofNodalOfficer.pdf" target="_blank"><b>Nodal Officers</b></a> of the concerned Administrative Ministry/Department as per the SOP. The additional features such as: e-communication, quicker processing, reduced paperwork, SMS/email alert and many more continue to exist. Before you log in for the online application form, please take some time off to register on portal.</p>
+            
+                
+                </div> 
+                </div> 
+                </div>
+                    
+                  </div>
+                
+                
+            </div>
+        </section>
+            
+        
+        </article>
+<div style="color: Red; font-size: 20px; font-weight: bold" align="center">
+        <a id="ctl00_ContentPlaceHolder1_HyperLink4" href="Forms/ListofNodalOfficer.pdf" target="_blank"><font color="Red">List of Competent Authority of Administrative Ministries for submitting Physical Copies of FDI Proposals</font></a>
+    </div>
+        <article class="content-area clearfix">
+        <section class="whats-new clearfix" style="display:none">
+        	<h3 class="widgetTitle">What's New</h3>
+            <div class="wrap">
+            <div class="whats-new-holder clearfix">
+            	<div class="whats-new-top clearfix">
+                	<div class="date">Date</div>
+                    <div class="subject">Subject</div>
+                </div>
+                <div class="updatesBlock">
+                <a href="javascript:clearTimeout(timer);makeItMove('container','userAction','textItem',-1);">
+                <img src="images/play_btn.gif" alt="Start"></a> 
+                <a href="javascript:makeItMove('container','userAction','textItem',210);">
+                <img src="images/stop_btn.gif" alt="Stop"></a>
+                    </div> 
+                  <div class="whats-new-bottom clearfix scroll">
+                <div class="whats-new-content clearfix">
+                
+                
+                
+<div id="container">
+
+<div id="textItem"> 
+
+                
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl00_lblgDate_of_Entry">23/10/2019</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl00_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl00$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals disposed off by Department for Promotion of Industry and Internal Trade</a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl00_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl00_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl01_lblgDate_of_Entry">13/04/2018</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl01_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl01$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals disposed off by the Department of Industrial Policy &amp; Promotion on 13.04.2018</a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl01_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl01_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl02_lblgDate_of_Entry">09/03/2018</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl02_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl02$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals disposed off by the Department of Industrial Policy &amp; Promotion on 07.03.2018</a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl02_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl02_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl03_lblgDate_of_Entry">22/01/2018</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl03_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl03$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals disposed off by the Department of Industrial Policy &amp; Promotion on 19.01.2018</a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl03_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl03_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl04_lblgDate_of_Entry">21/12/2017</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl04_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl04$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals disposed off by the Department of Industrial Policy &amp; Promotion on 21.12.2017</a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl04_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl04_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl05_lblgDate_of_Entry">10/11/2017</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl05_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl05$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals disposed off by the Department of Industrial Policy &amp; Promotion as on 09.11.2017</a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl05_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl05_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl06_lblgDate_of_Entry">24/10/2017</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl06_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl06$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals disposed off by the Department of Industrial Policy &amp; Promotion as on 24.10.2017</a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl06_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl06_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl07_lblgDate_of_Entry">18/10/2017</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl07_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl07$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals disposed off by the Department of Industrial Policy &amp; Promotion as on 18.10.2017</a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl07_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl07_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl08_lblgDate_of_Entry">17/10/2017</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl08_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl08$LinkButtonForEPreView&#39;,&#39;&#39;)">Standard Operating Procedure for Processing FDI Proposals</a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl08_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl08_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl09_lblgDate_of_Entry">09/10/2017</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl09_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl09$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals Disposed of by Department of Industrial Policy &amp; Promotion as on 09/10/2017 </a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl09_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl09_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl10_lblgDate_of_Entry">04/10/2017</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl10_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl10$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals Disposed of by Department of Industrial Policy &amp; Promotion as on 04/10/2017 </a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl10_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl10_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl11_lblgDate_of_Entry">03/10/2017</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl11_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl11$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals Disposed of by Department of Industrial Policy &amp; Promotion as on 03/10/2017 </a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl11_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl11_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl12_lblgDate_of_Entry">30/08/2017</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl12_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl12$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals Disposed of by Department of Industrial Policy &amp; Promotion as on 29/08/2017 </a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl12_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl12_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl13_lblgDate_of_Entry">29/08/2017</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl13_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl13$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals Disposed of by Department of Industrial Policy &amp; Promotion as on 28/08/2017 </a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl13_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl13_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+                <span class="date1" >
+                <span id="ctl00_ContentPlaceHolder1_Repeater1_ctl14_lblgDate_of_Entry">24/08/2017</span>
+               </span>
+                <span class="subject1">
+                 
+                  
+                  
+                   <a id="ctl00_ContentPlaceHolder1_Repeater1_ctl14_LinkButtonForEPreView" class="LinkButtons" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater1$ctl14$LinkButtonForEPreView&#39;,&#39;&#39;)">FDI Proposals Disposed of by Department of Industrial Policy &amp; Promotion as on 24/08/2017</a>
+                      
+                        
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl14_openpdf" title="PDF File" src="images/pdf_icon.gif" border="0" />
+                        
+
+                         <img id="ctl00_ContentPlaceHolder1_Repeater1_ctl14_openimage" title="Open in a new window" src="images/newindow_icon.gif" border="0" />
+                         
+                         
+                       </span>
+           
+       
+   
+                
+                </div> 
+                </div> 
+                </div>
+                    
+                  </div>
+                
+                
+            </div>
+        </section>
+            
+        
+        </article>
+    </div>
+</section>
+    <!--/.body-wrapper-->
+
+
+<style>
+#mask {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:9000;
+  background-color:#26262c;
+  display:none;
+}  
+#boxes .window {
+  position:absolute;
+  left:0;
+  top:0;
+  width:1280px;
+  height:262px;
+  display:none;
+  z-index:9999;
+  padding:20px;
+  border-radius: 5px;
+  text-align: center;
+}
+#boxes #dialog {
+  width:1280px; 
+  height:auto;
+  padding: 10px 10px 10px 10px;
+  background-color:#ffffff;
+  font-size: 15pt;
+}
+ 
+.agree{
+  padding-left: 99%;
+	width: 5px;
+	background-color:;
+	color: #f00;
+	text-decoration: none;
+}
+.agree:hover{
+  background-color: #fff;
+}
+.popupoption:hover{
+ background-color:#fff;
+ color: green;
+}
+.popupoption2:hover{
+ color: red;
+}
+</style>
+
+<div id="boxes">
+<div style="top: 50%; left: 5%; display: none;" id="dialog" class="window"> 
+<div id="webcode">
+<a href="#" class="close agree">X</a>
+
+<a  href="https://nsws.gov.in/" target="_blank"><img src="images/banner_NSWS.jpg" alt="FIFP-NSWS" title="FIFP-NSWS" style="width: 1280px;"></a>
+</div>
+</div>
+<div style="width: 2478px; font-size: 32pt; color:white; height: 1202px; display: none; opacity: 0.4;" id="mask"></div>
+</div>
+<script type='text/javascript'>
+jQuery(document).ready(function() { 
+  var id = '#dialog';
+  
+  var maskHeight = jQuery(document).height();
+  var maskWidth = jQuery(window).width();
+  jQuery('#mask').css({'width':maskWidth,'height':maskHeight}); 
+  jQuery('#mask').fadeIn(500); 
+  jQuery('#mask').fadeTo("slow",0.9); 
+        var winH = jQuery(window).height();
+		var winW = jQuery(window).width();
+        jQuery(id).css('top',  winH/2-jQuery(id).height()/2);
+  jQuery(id).css('left', winW/2-jQuery(id).width()/2);
+     jQuery(id).fadeIn(2000);  
+     jQuery('.window .close').click(function (e) {
+  e.preventDefault();
+  jQuery('#mask').hide();
+  jQuery('.window').hide();
+     });  
+     jQuery('#mask').click(function () {
+	  jQuery(this).hide();
+	  jQuery('.window').hide();
+	 });  
+ 
+});
+</script>
+
+
+
+        <!--/.body-wrapper-->
+        <footer class="wrapper footer-wrapper">
+
+            <div class="container footer-container">
+                <div class="footer-block block-about">
+                    <h4>About Us</h4>
+                    <p>The Foreign Investment Facilitation Portal <strong>(FIFP)</strong> is the new online single point interface of the Government of India for investors to facilitate Foreign Direct Investment.</p>
+                </div>
+                <div class="footer-block block-featured-link">
+                    <h4>Featured Links</h4>
+                    <div class="footer-link clearfix">
+                        <ul>
+                            <li>
+                                <a id="ctl00_HyperLink2" href="Default.aspx" target="_blank">Home Page</a></li>
+                            <li>
+                                <a id="ctl00_HyperLink500" href="http://www.dpiit.gov.in/" target="_blank">Department for Promotion of Industry and Internal Trade</a></li>
+                            
+<li>
+                                <a id="ctl00_HyperLink3" href="http://www.rbi.org.in/scripts/bs_viewfemanewnotification.aspx" target="_blank">RBI Notifications</a></li>
+                            <li>
+                                <a id="ctl00_HyperLink4" href="http://dpiit.gov.in/policies-rules-and-acts/press-notes-fdi-circular" target="_blank">DPIIT Press Note</a></li>
+                            <li>
+                                <a id="ctl00_HyperLink5" href="ContactUs.aspx" target="_blank">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="footer-block block-help-desk">
+                    <h4>FIFP Help Desk</h4>
+                    
+
+                    <div class="desk-email clearfix">
+                        For Technical Queries :
+                        <br />
+                        <span><i class="fa fa-envelope"></i></span><span>E-mail:</span> fifp[dash]dipphelpdesk[at]gov[dot]in
+                    </div>
+		<div class="desk-email clearfix">
+                For Clarification on FDI Policy  : <br />
+                <span>Kindly refer FAQ No. 20 (FAQ FDI-Policy).</span><br /> <span>URL: https://fifp.gov.in/Forms/FAQs_FDIPolicy.pdf </span>
+            </div>
+                </div>
+
+                <div class="footer-block block-contact">
+                    <h4>Contact Us</h4>
+                    <address class="footer-address">
+                        <!--<span>Tel:</span> 011-23062096<br />-->
+                        Foreign Investment Facilitation Section<br />
+                        DPIIT Vanijya Bhawan<br>
+                        New Delhi-110011
+                    </address>
+                </div>
+            </div>
+            <div class="container footer-container-bottom">
+                <div class="block-copyright">
+                    <div class="copy-right">
+                        &copy; Content Owned, Updated and Maintained by 
+            <a href="http://dpiit.gov.in/" target="_blank">Department for Promotion of Industry and Internal Trade, MoCI, Government of India</a>
+                    </div>
+                    <div>Site designed, hosted by <a href="http://www.nic.in/" target="_blank">National Informatics Centre</a></div>
+
+                </div>
+            </div>
+        </footer>
+        <!--/.footer-wrapper-->
+    </form>
+</body>
+</html>
